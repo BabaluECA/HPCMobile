@@ -1,0 +1,922 @@
+<resources>
+    <string name="app_name">HPCMobile</string>
+    <string name="textTest">EDIÇÃO DE TESTE</string>
+    <string name="textIMU">IGREJA METODISTA UNIDA</string>
+    <string name="textHPCM">HINÁRIO POVO CANTAI MOBILE</string>
+    <string name="brevemente">Brevemente</string>
+    <string name="acction_continuar">Continuar</string>
+    <string name="edicao"><b>Edição Digital</b></string>
+    <string name="versao"><b>Versão 1.6</b></string>
+    <string name="creditos">Créditos</string>
+    <string name="prefacio">Prefácio</string>
+    <!--<string name="privacidade">Politicas de Privacidade</string>
+    <string name="abrir">Abrir Hinário</string>-->
+    <string name="privacidade">Privacidade</string>
+    <string name="abrir">Hinário</string>
+    <string name="portugues">Português</string>
+    <string name="kikongo">Kikongo</string>
+    <string name="umbundo">Umbundo</string>
+    <string name="kimbundo">Kimbundo</string>
+    <string name="leitura">Leitura Responsiva</string>
+    <string name="invocacoes">Invocações e chamadas para adoração</string>
+    <string name="santaceia">Ritual da Santa Ceia</string>
+    <string name="oracaodominical">Oração Dominical</string>
+    <string name="oracaodominical1"><b>Oração Dominical</b></string>
+    <string name="credo">Credo Apostólico</string>
+    <string name="credo1"><b>Credo Apostólico</b></string>
+    <string name="benvindo"><b>Bem vindo</b></string>
+    <string name="eventos">Eventos 2020</string>
+
+    <!-- Informações creditos-->
+    <!--Nome Colaboradores-->
+    <string name="eduardo">E. Cordeiro Alves</string>
+    <string name="marcela">Marcela Joaquim de Barros</string>
+    <string name="magnos">Magnos Soares Buchartts</string>
+    <string name="orlando">Orlando Manuel da Cruz</string>
+    <string name="praia">Manuel Praia</string>
+    <string name="x"></string>
+    <string name="x1"></string>
+
+    <string name="babalueca">BabaluECA</string>
+
+    <!--Dados Igrejas-->
+    <string name="arocha">Membro efetivo da IMU António Rocha</string>
+    <string name="bethel">Membro efetivo da IMU Bethel</string>
+    <string name="calemba">Membro efetivo da IMU Calemba</string>
+    <string name="invocacao">Invocações e chamadas para adoração</string>
+    <string name="tituloPt">Hinos em Português</string>
+    <string name="hpcmobile">HPCMobile</string>
+    <string name="procurar">Procurar</string>
+
+    <!-- Texto salmos introdução -->
+    <string name="salmosintro">
+        <i>
+        \nÓ Senhor Deus, eu te louvarei e cantarei todas as coisas maravilhosas que tens feito.
+        \n\nPor causa de ti, eu me alegrarei e ficarei feliz. Cantarei louvores a ti, ó meu Deus altíssimo.
+        \n\nSalmos 9:1-2
+        </i>
+    </string>
+
+    <!--Leitura Responsiva-->
+    <string name="salmos1"><b>Salmos 1</b></string>
+
+    <string name="salmos1x">
+        <b>D - Bem-aventurado o varão que não anda segundo o concelho dos ímpios.</b>
+        \nC - Nem se detém no caminho dos pecadores, nem se assenta na roda dos escarnecedores.
+        \n<b>D - Antes tem o seu prazer na lei do Senhor,</b>
+        \nC - E na sua lei medita de dia e de noite.
+        \n<b>D - Pois será como a árvore plantada junto a ribeiro de águas,</b>
+        \nC - a qual dá o seu fruto na estação própria,
+        \n<b>D - e cujas folhas não caem.</b>
+        \nC - e tudo quanto fizer prosperará.
+        \n<b>D - Não são assim os ímpios,</b>
+        \nC - mas são como a moinha que o vento espalha.
+        \n<b>D - Pelo que os ímpios não subsistirão no juízo,</b>
+        \nC - nem os pecadores na congregação dos justos.
+        \n<b>D - Porque o Senhor conhece o caminho dos justos,</b>
+        \nC - mas o caminho dos ímpios perecerá.
+    </string>
+
+    <string name="salmos8"><b>Salmos 8</b></string>
+
+    <string name="salmos8x">
+        <b>D - Ó Senhor, Senhor nosso, quão admirável é o teu nome em toda a terra!</b>
+        \nC - pois puseste a tua glória sobre os céus! Da boca das crianças e dos que mamam,
+        \n<b>D - tu suscitaste força, por causa dos teus adversários, </b>
+        \nC - para fazeres calar o inimigo e vingativo.
+        \n<b>D - Quando vejo os teus céus, obra dos teus dedos,</b>
+        \nC - a lua e as estrelas que preparaste,
+        \n<b>D - Que é o homem mortal para que te lembres dele?</b>
+        \nC - e o filho do homem para que o visites?
+        \n<b>D - Contudo, pouco menor o fizeste do que os anjos,</b>
+        \nC - e de glória e de honra o coroaste.
+        \n<b>D - Fazes com que ele tenha domínio sobre as obras das tuas mãos;</b>
+        \nC - tudo puseste debaixo dos seus pés:
+        \n<b>D - todas as ovelhas e bois,</b>
+        \nC - assim como os animais do campo,
+        \n<b>D - As aves dos céus, e os peixes do mar,</b>
+        \nC - e tudo o que passa pelas veredas dos mares.
+        \n<b>D - Ó Senhor, Senhor nosso,</b>
+        \nC - Quão admirável é o teu nome sobre toda a terra!
+    </string>
+
+    <string name="salmos15"><b>Salmos 15</b></string>
+
+    <string name="salmos15x">
+        <b>D - Senhor, quem habitará no teu tabernáculo?</b>
+        \nC - Aquele que anda em sinceridade, e pratica a justiça, e fala verazmente, segundo o seu coração;
+        \n<b>D - Aquele que não difama com a sua língua, nem faz mal ao seu próximo,</b>
+        \nC - nem aceita nenhuma afronta contra o seu próximo;
+        \n<b>D - Aquele a cujos olhos o réprobo é desprezado,</b>
+        \nC - mas honra os que temem ao Senhor;
+        \n<b>D - Aquele que, mesmo que jure com dano seu, não muda;</b>
+        \nC - nem recebe peitas contra o inocente.
+        \n<b>D - Quem faz isto,</b>
+        \nC - nunca será abalado.
+    </string>
+
+    <string name="salmos23"><b>Salmos 23</b></string>
+
+    <string name="salmos23x">
+        <b>D - O Senhor é meu pastor;</b>
+        \nC - nada me faltará.
+        \n<b>D - Deitar-me faz me verdes pastos,</b>
+        \nC - guia-me mansamente a águas tranquilas.
+        \n<b>D - Refrigera a minha alma;</b>
+        \nC - guia-me pelas veredas da justiça, por amor do seu nome.
+        \n<b>D - Ainda que eu andasses pelo vale da sombra da morte, não temeria mal algum,</b>
+        \nC - Porque tu estás comigo; a tua vara e o teu cajado me consolam.
+        \n<b>D - Preparas uma mesa perante mim na presença dos meus inimigos:</b>
+        \nC - unges a minha cabeça com óleo, e meu cálice trasborda.
+        \n<b>D - Certamente que a bondade e a misericórdia me seguirão todos os dias minha vida,</b>
+        \nC - e habitareis na casa do Senhor por longos dias.
+    </string>
+
+    <string name="salmos24"><b>Salmos 24</b></string>
+
+    <string name="salmos24x">
+        <b>D - Do Senhor é a terra e a sua plenitude;</b>
+        \nC - o mundo e aqueles que nele habitam.
+        \n<b>D - Porque ele a fundou sobre os mares,</b>
+        \nC - e a firmou sobre os rios.
+        \n<b>D -Quem subirá ao monte do Senhor?</b>
+        \nC - Ou quem estará no seu lugar santo?
+        \n<b>D - Aquele que é limpo de mãos e puro de coração;</b>
+        \nC - que não entrega a sua alma à vaidade, nem jura enganosamente.
+        \n<b>D - Este receberá a bênção do Senhor,</b>
+        \nC - e a justiça do Deus da salvação.
+        \n<b>D - Levantai, ó portas as vossas Cabeças; levantai-vos, ó entradas eternas!</b>
+        \nC - e entrará o Rei da Glória.
+        \n<b>D - Quem é este Rei da Glória?</b>
+        \nC - O Senhor forte e poderoso, o Senhor poderoso na guerra.
+        \n<b>D - Levantai, ó portas, as vossas cabeças; levantai-vos, ó entradas eternas!</b>
+        \nC - e entrará o Rei da Glória!
+        \n<b>D - Quem é este Rei da Glória?</b>
+        \nC - O Senhor dos exércitos; ele é o Rei da Glória!
+    </string>
+
+    <string name="salmos46"><b>Salmos 46</b></string>
+
+    <string name="salmos46x">
+        <b>D – Deus é o nosso refúgio e fortaleza,</b>
+        \nC – socorro bem presente na angústia.
+        \n<b>D – Pelo que não temeremos, ainda que a terra se mude,</b>
+        \nC – e ainda que os montes se transportem para o meio dos mares;
+        \n<b>D – Ainda que as águas rujam e se perturbem,</b>
+        \nC – ainda que os montes se abalem pela sua braveza.
+        \n<b>D – Há um rio cujas correntes alegram a cidade de Deus,</b>
+        \nC – o santuário das moradas do Altíssimo.
+        \n<b>D – Deus está no meio dela; não será abalada;</b>
+        \nC – Deus a ajudará ao romper da manhã.
+        \n<b>D – As nações se embraveceram, os reinos se moveram;</b>
+        \nC – Ele levantou a sua voz e a terra se derreteu.
+        \n<b>D – O Senhor dos exércitos está connosco;</b>
+        \nC – O Deus de Jacob é o nosso refúgio.
+        \n<b>D – Vinde, contemplai as obras do Senhor;</b>
+        \nC – que desolações têm feito na terra!
+        \n<b>D – Ele faz cessar as guerras até ao fim da terra;</b>
+        \nC – quebra o arco e corta a lança; queima os carros no fogo!
+        \n<b>D – Aquietai-vos, e sabei que eu sou Deus,</b>
+        \nC – serei exaltado entre as nações, serei exaltado sobre a terra.
+        \n<b>D – O Senhor dos exércitos está connosco;</b>
+        \nC – o Deus de Jacob é o nosso refúgio.
+    </string>
+
+    <string name="salmos67"><b>Salmos 67</b></string>
+
+    <string name="salmos67x">
+        <b>D - Deus tenha misericórdia de nós e nos abençoe, </b>
+        \nC - e faça resplandecer o seu rosto sobre nós.
+        \n<b>D - Para que se conheça na terra o teu caminho,</b>
+        \nC - e em todas as nações a tua salvação.
+        \n<b>D - Louvem-te a ti, ó Deus, os povos;</b>
+        \nC - Louvem-te os povos todos!
+        \n<b>D - Alegrem-se e regozijem-se as nações,</b>
+        \nC - pois julgarás os povos com equidade, e governarás as Nações sobre a terra.
+        \n<b>D - Louvem-te a ti, ó Deus, os povos;</b>
+        \nC - Louvem-te os povos todos!
+        \n<b>D - Então a terra dará o seu fruto;</b>
+        \nC - e Deus, o nosso Deus, nos abençoará.
+        \n<b>D - Deus nos abençoará,</b>
+        \nC - e todas as extremidades da terra o temerão.
+    </string>
+
+    <string name="salmos72"><b>Salmos 72</b></string>
+
+    <string name="salmos72x">
+        <b>D - Ó Deus. Dá ao rei os teus juízos,</b>
+        \nC - e a tua justiça ao filho do rei!
+        \n<b>D - Ele julgará o teu povo com justiça,</b>
+        \nC - e aos teus pobres com juízo.
+        \n<b>D - Julgará os aflitos do povo,</b>
+        \nC - salvará os filhos do necessitado e quebrantará o opressor.
+        \n<b>D - Nos seus dias florescerá o justo,</b>
+        \nC - e abundância de paz haverá enquanto durar a lua.
+        \n<b>D - Porque ele livrará ao necessitado quando clamar,</b>
+        \nC - como também ao pobre e ao que não tem quem o ajude.
+        \n<b>D - Libertará as suas vidas da opressão e da violência,</b>
+        \nC - e precioso será o seu sangue aos olhos dele.
+        \n<b>D - O seu nome permanecerá eternamente,</b>
+        \nC - e o seu nome se irá propagando de pais a filhos, enquanto o sol durar!
+        \n<b>D - Bendito seja o Senhor Deus, o Deus de Israel,</b>
+        \nC - que só Ele faz maravilhas,
+        \n<b>D - E bendito seja para sempre o seu nome glorioso,</b>
+        \nC - e encha-se toda a terra da sua glória. Amem e Amem!
+    </string>
+
+    <string name="salmos90"><b>Salmos 90</b></string>
+
+    <string name="salmos90x">
+        <b>D - Senhor, tu tens sido o nosso refúgio.</b>
+        \nC - De geração em geração.
+        \n<b>D - Antes que os montes nascessem, ou que tu formasses a terra e o mundo,</b>
+        \nC - sim, de eternidade a eternidade, tu és Deus.
+        \n<b>D - Tu reduzes o homem à destruição,</b>
+        \nC - e dizes: Volvei, filhos dos homens.
+        \n<b>D - Porque mil anos são aos teus olhos como o dia de ontem que passou,</b>
+        \nC - e como a vigília da noite.
+        \n<b>D - Tu os levas como corrente de água; são como um sono;</b>
+        \nC - são como a erva que cresce de madrugada:
+        \n<b>D - de madrugada cresce e floresce;</b>
+        \nC - à tarde corta-se e seca.
+        \n<b>D - A duração da nossa vida é de setenta anos,</b>
+        \nC - e se alguns pela robustez, chegam a oitenta anos,
+        \n<b>D - o melhor deles é canseira e enfado;</b>
+        \nC - pois passa rapidamente, e nós voamos.
+        \n<b>D - Ensina-nos a contar os nossos dias,</b>
+        \nC - de tal maneira que alcancemos corações sábios.
+        \n<b>D - E seja sobre nós a graça do Senhor nosso Deus,</b>
+        \nC - e confirma sobre nós a obra das nossas mãos; sim, confirma a obra das nossas mãos.
+    </string>
+
+    <string name="salmos100"><b>Salmos 100</b></string>
+
+    <string name="salmos100x">
+        <b>D - Celebrai com júbilo ao Senhor todos os moradores da terra.</b>
+        \nC - Servi ao Senhor com alegria, e apresentai-vos a ele com canto.
+        \n<b>D - Sabei que o Senhor é Deus: foi ele, não nós, que nos fez seu e ovelhas do seu pasto.</b>
+        \nC - Entrai pelas portas dele com louvor, e em seus átrios com hinos;
+        \n<b>D - Louvai-o e bendizei o Seu Nome. Porque o Senhor é bom e eterna a sua misericórdia;</b>
+        \nC - e a sua verdade estende-se de geração a geração.
+    </string>
+
+    <string name="salmos103"><b>Salmos 103</b></string>
+
+    <string name="salmos103x">
+        <b>D - Bendize, ó minha alma ao Senhor,</b>
+        \nC - e tudo o que há entre mim bendigam o seu santo nome.
+        \n<b>D - Bendize, ó minha alma, ao Senhor,</b>
+        \nC - e não te esqueças de nenhum dos seus benefícios.
+        \n<b>D - É ele que perdoa todas as tuas iniquidades,</b>
+        \nC - e sara todas as tuas enfermidades;
+        \n<b>D - Quem redime a tua vida da perdição,</b>
+        \nC - e te coroa de benignidade e de misericórdia;
+        \n<b>D - Quem enche a tua boca de bens,</b>
+        \nC - de sorte que a tua mocidade se renova como a águia
+        \n<b>D - O Senhor fará justiça e juízo</b>
+        \nC - a todos os oprimidos.
+        \n<b>D - Fez notórios os seus caminhos a Moisés,</b>
+        \nC - e os seus feitos aos filhos de Israel. Bendize, ó minha alma ao Senhor!
+    </string>
+
+    <string name="salmos139"><b>Salmos 139</b></string>
+
+    <string name="salmos139x">
+        <b>D - Senhor, tu me sondaste e me conheces!</b>
+        \nC - tu conheces o meu assentar e o meu levantar, de longe entendes o meu pensamento
+        \n<b>D - sem que haja uma palavra na minha língua,</b>
+        \nC - eis que, ó Senhor, tudo conheces.
+        \n<b>D - para onde irei do teu espírito?</b>
+        \nC - Ou para onde fugirei da tua face?
+        \n<b>D - Sonda-me, ó Deus, e conhece o meu coração!</b>
+        \nC - prova-me, e conheces os meus pensamentos;
+        \n<b>D - E vê se em mim algum caminho mau,</b>
+        \nC - e guia-me pelo caminho eterno.
+    </string>
+
+    <string name="salmos150"><b>Salmos 150</b></string>
+
+    <string name="salmos150x">
+        <b>D - Louvai ao Senhor, Louvai a Deus no seu santuário;</b>
+        \nC - Louvai-o no firmamento do seu poder!
+        \n<b>D - Louvai-o pelos seus actos poderosos;</b>
+        \nC - Louvai-o conforme a excelência da sua grandeza.
+        \n<b>D - Louvai-o com som de trombeta;</b>
+        \nC - Louvai-o com o saltério e a harpa!
+        \n<b>D - Louvai-o com o adufe e a flauta;</b>
+        \nC - Louvai-o com instrumento de cordas e com a marimba;
+        \n<b>D - Louvai-o com o quissange e com a ngoma;</b>
+        \nC - Louvai-o com o batuque trepidante.
+        \n<b>D - Tudo quanto tem fôlego louve ao Senhor.</b>
+        \nC - Louvai-o ao Senhor!
+    </string>
+
+    <string name="smateus5_3_12"><b>São Mateus 5:3-12</b></string>
+
+    <string name="smateus5_3_12x">
+        <b>D - Bem-aventurados os pobres de espírito,</b>
+        \nC - porque deles é o reino dos céus.
+        \n<b>D - Bem-aventurados os que choram,</b>
+        \nC - porque eles serão consolados.
+        \n<b>D - Bem-aventurados os mansos,</b>
+        \nC - porque eles herdarão a terra.
+        \n<b>D - Bem-aventurados os que têm fome e sede de justiça,</b>
+        \nC - porque eles serão fartos.
+        \n<b>D - Bem-aventurados os misericordiosos,</b>
+        \nC - porque eles alcançarão misericórdia.
+        \n<b> - Bem-aventurados os limpos de coração,</b>
+        \nC - porque eles verão a Deus.
+        \n<b>D - Bem-aventurados os pacificadores,</b>
+        \nC - porque eles serão chamados filhos de Deus.
+        \n<b>D - Bem-aventurados os que sofrem perseguição por causa da justiça,</b>
+        \nC - porque deles é o reino dos céus.
+        \n<b>D - Bem-aventurados sois vós, quando vos injuriarem e perseguirem, e mentindo, disserem todo o mal contra vós por minha causa. Exultai e alegrai-vos, porque é grande o vosso galardão nos céus; porque assim perseguiram os profetas que foram antes de vós.</b>
+    </string>
+
+    <string name="apocalipse"><b>Apocalipse</b></string>
+
+    <string name="apocalipsex">
+        <b>D - Santo, santo, santo é o Senhor Deus, o Todo-Poderoso, que era, e que é, e que há-de vir.</b>
+        \nC - Grande e maravilhosas são as tuas obras, Senhor Deus Todo-Poderoso!
+        \n<b>D - Justos e verdadeiros são os teus caminhos, ó Rei dos santos!</b>
+        \nC - Quem te não temerá, ó senhor, e não magnificará o teu Nome? Porque só tu és santo.
+        \n<b>D - Digno és Senhor de receber glória, e honra, e poder; porque tu criaste todas as coisas, e por tua vontade são e foram criadas.</b>
+        \nC - Digno é o Cordeiro, que foi morto, de receber o poder, e riquezas, e sabedoria, e força, e honra, e glória, e acções de graças.
+        \n<b>D - Louvor e glória, e sabedoria, e acções de graças, e honra, e poder, e força ao nosso Deus, para todo o sempre.</b>
+        \nC - Ao que está assentado sobre o trono, e ao Cordeiro sejam dadas acções de graças, e honra, e glória, e poder para todo sempre!
+        \n<b>D - Graças de damos, Senhor Deus Todo-Poderoso, que és e que eras, que has-de vir, que tomaste o teu grande poder, e reinaste.</b>
+        \nC - Aleluia! pois já o Senhor Deus Todo-Poderoso reina. Regozijamo-nos e alegremo-nos, e demos-lhe glória.
+    </string>
+
+    <string name="slucas1_68_79"><b>São Lucas 1:68-79</b></string>
+
+    <string name="slucas1_68_79x">
+        <b>D - Bendito o Senhor de Israel,</b>
+        \nC - porque visitou e remiu o seu povo,
+        \n<b>D - E nos levantou uma salvação poderosa</b>
+        \nC - na casa de David seu servo.
+        \n<b>D - Como falou pela boca dos seus santos profetas,</b>
+        \nC - desde o princípio do mundo;
+        \n<b>D - para nos livrar dos nossos inimigos</b>
+        \nC - e da mão de todos os que nos aborrecem.
+        \n<b>D - E tu, ó menino, serás chamado profeta do altíssimo,</b>
+        \nC - porque hás-de ir ante a fece do Senhor, a preparar os seus caminhos,
+        \n<b>D - Para dar ao seu povo conhecimento da salvação,</b>
+        \nC - na remissão dos seus pecados,
+        \n<b>D - Para ilumiar os que estão sentados em trevas e sombras de morte,</b>
+        \nC - a fim de dirigir os nossos pés pelo caminho da paz.
+    </string>
+
+    <string name="slucas2_29_35"><b>São Lucas 2:29-35</b></string>
+
+    <string name="slucas2_29_35x">
+        <b>D - Agora, Senhor, despedes em paz o teu servo,</b>
+        \nC - segundo a tua palavra;
+        \n<b>D - pois já os meus olhos viram</b>
+        \nC - a tua salvação,
+        \n<b>D - a qual tu preparaste,</b>
+        \nC - perante a face de todos os povos;
+        \n<b>D - luz para alumiar as nações,</b>
+        \nC - E para glória do teu povo Israel.
+        \n<b>D - Glória ao Pai, e ao Filho e ao Espírito Santo;</b>
+        \nC - Como era no princípio, agora e para sempre, séculos sem fim. Amém.
+    </string>
+
+    <!--Ritual da Santa Ceia-->
+    <string name="ritualsantaceia">
+        \n<b><i>(Estando todos de pé, o Ministro faz o seguinte CONVITE:)</i></b>
+        \n<i>Vós que verdadeira e sinceramente vos arrependeis dos vossos pecados; que estais em caridade e amor para com o próximo; e que tencionais viver uma vida nova em harmonia com a vontade de Deus e caminhar de hoje em diante por suas veredas santas, aproximai-vos com fé e tomai este santo sacramento para vosso conforto fazendo antes humilde confissão a Deus Todo-Poderoso.</i>
+        \n
+        \n<b><i>(A Congregação assenta-se, em recolhimento espiritual, em exame da consciência, enquanto o Oficiante faz a seguinte oração:)</i></b>
+        \n<i>Ó Deus, nosso Pai celestial, esclarece com o teu Santo Espírito a nossa mente e revela-nos ao coração todos os pecados que temos cometido contra Ti, contra o nosso próximo e contra nós mesmos.</i>
+        \n
+        \n<b><i>(Ajoelhados ou como queiram, o Ministro e a Congregação fazem, em uníssono, a seguinte Confissão:)</i></b>
+        \n<i>Deus omnipotente, Pai de nosso Senhor Jesus Cristo, Criador de todas as coisas, Juíz de todos os seres humanos, nós confessamos e choramos os nossos muitos pecados e maldades que muitas vezes temos cometido contra a tua divina majestade, por pensamentos, palavras e obras, provocando justamente a tua ira e indignação contra nós. De todo o coração nos arrependemos, e amargamente choramos as nossas culpas; a memória delas nos atormenta e o seu peso nos é incomportável. Compadece-te de nós, compadece-te de nós, e por amor do Teu Filho, nosso Senhor Jesus Cristo, perdoa-nos todo o passado e permite que, daqui em diante, te sirvamos e te agrademos com um novo teor de vida para glória e honra do teu Nome; mediante Jesus Cristo, nosso Senhor. Amém.</i>
+        \n
+        \n<b><i>(Depois o Ministro dirá:)</i></b>
+        \n<i>Ó Deus Todo-Poderoso, nosso Pai celestial, que por tua grande misericórdia prometeste perdoar os pecados a todos os que, com sincero arrependimento e verdadeira fé a Ti se converterem; tem misericórdia de nós; perdoa-nos e livra-nos de todos os nossos pecados; confirma-nos e fortalece-nos em toda a virtude e conduze-nos à vida eterna; mediante Jesus Cristo, nosso Senhor; Amém.</i>
+        \
+        \n<b><i>(O Ministro e a Congregação, em uníssono:)</i></b>
+        \n<i>Ó Deus Omnipotente, que sondas todos os corações e conheces todos os desejos sem que haja segredos ocultos para ti; purifica os nossos corações por influência do teu Espírito Santo, para que possamos amar-Te perfeitamente e engrandecer o teu santo Nome como devemos; por Jesus Cristo, nosso Senhor. Amém.</i>
+        \n
+        \n<b><i>(O Ministro:)</i></b>
+        \n<i>Elevai os vossos corações.</i>
+        \n
+        \n<b><i>(A Congregação)</i></b>
+        \n<i>Elevemo-los ao Senhor.</i>
+        \n
+        \n<b><i>(O Ministro:)</i></b>
+        \n<i>Demos graças ao Senhor nosso Deus.</i>
+        \n
+        \n<b><i>(A Congregação)</i></b>
+        \n<i>Dêmo-las, pois é digno e justo.</i>
+        \n
+        \n<b><i>(O Ministro:)</i></b>
+        \n<i>É verdadeiramente digno e justo e do nosso estrito dever, que em todos os tempos e lugares te rendamos graças, ó Senhor, Santo Pai, Omnipotente e eterno Deus. Portanto, com os anjos e arcanjos e com toda a corte celestial, louvamos e magnificamos o teu glorioso Nome, exaltando-te sempre e dizendo:</i>
+        \n
+        \n<b><i>(A Congregação)</i></b>
+        \n<i>Santo, Santo, Santo, Senhor Deus dos Exércitos; os céus e a terra estão cheios da tua glória. Glória te seja dada, ó Senhor Altíssimo. Amém.</i>
+        \n
+        \n<b><i>(Aqui o Ministro dirá:)</i></b>
+        \n<i>Não ousamos, ó Senhor, aproximar-nos da tua santa mesa, confiados na nossa própria rectidão, mas na multidão das tuas misericórdias, pois não nos julgamos dignos nem mesmo de apanhar as migalhas caídas da tua mesa. Mas tu, ó Senhor, cuja natureza é ser misericordioso, concede que de tal modo participemos destes elementos e que, pela fé, apropriemos os méritos da paixão e morte do teu amado Filho, nosso Salvador, e que as nossas almas e corpos pecaminosos sejam purificados pelo seu precioso sangue e que sempre vivamos n´Ele e Ele em nós. Amém.  </i>
+        \
+        \n<b><i>(O Ministro, voltado para a Mesa, descobre os elementos e pronuncia a seguinte Oração Memorial de Consagração:)</i></b>
+        \n<i>Toda a glória seja a Ti, Senhor Deus Omnipotente, que em Teu amor nos deste o teu Unigénito Filho Jesus Cristo a fim de morrer na cruz para nossa redenção; o qual de uma vez para sempre entregou o seu corpo em sacrifício pleno, perfeito e suficiente pelas iniquidades de todo o mundo; e ele próprio instituiu um memorial perpétuo de Sua preciosa morte, ordenando-nos no seu Santo Evangelho que o continuemos até à Sua Segunda Vinda; concede-nos, Te suplicamos, ó Pai misericordioso, que ao tomarmos estes elementos de pão e vinho, segundo a instituição de teu Filho, nosso Salvador Jesus Cristo, em memoria de sua  paixão e morte, participemos do abençoadíssimo corpo e sangue de Cristo, pois Ele, na mesma noite em que foi entregue, tomou o pão e, havendo dado graças, o partiu e deu a seus discípulos, dizendo: «Tomai, comei, isto é o meu corpo que é dado por vós; fazei isto em memória de mim.» Semelhantemente, terminada a ceia, tomou também o cálice e havendo dado graça o deu a todos, dizendo: «Bebei dele todos, porque isto é o meu sangue do novo testamento, derramado por vós e por muito para remissão dos pecados; fazei isto quantas vezes o beberdes, em memória de mim.» Amém.</i>
+        \n
+        \n<b><i>(O Ministro, depois de tomar os elementos, passa-os aos demais ministros presentes e repete, acompanhando pela Congregação, a Oração Dominical)</i></b>
+        \n<b><i>(Aqui pode-se cantar um hino apropriado e o Povo aproxima-se da Mesa do Senhor e, de joelhos, recebe das mãos do Ministro ambos os elementos. Ao entregar a mão, o Ministro diz:)</i></b>
+        \n<i>O corpo de nosso Senhor Jesus Cristo, que foi dado por ti, conserve o teu corpo e a tua alma para a vida eterna. TOMA E COME este em memória de haver Cristo morrido por ti, e dele alimenta-te em teu coração, pela fé, com acções de graça.</i>
+        \n
+        \n<b><i>(Ao entregar o cálice, o Ministro diz:)</i></b>
+        \n<i>O sangue de nosso Senhor Jesus Cristo, que foi derramado por ti, conserve o teu corpo e a tua alma para a vida eterna. BEBE este em memória de haver Cristo derramado seu sangue por ti e sê agradecido.</i>
+        \n
+        \n<b><i>(Aconselha-se que, depois de cada grupo servido, o Ministro despeça os comungantes com uma breve exortação apropriada. Depois de todos terem comungado, põe sobre a mesa os elementos que sobejam e cobre-os de novo com a toalha, e diz:)</i></b>
+        \n<i>Ó Senhor nosso Pai celestial, nós, teus servos, te suplicamos que por tua paternal bondade te dignes receber este nosso sacrifício de louvor e acções de graças, rogando-te humildemente que, pelos merecimentos da obra e morte de teu Filho Jesus Cristo por nós, e pela fé no seu Sangue, recebamos o perdão dos nossos pecados com todos os demais benefícios de sua morte e paixão. E aqui, Senhor, te dedicamos e apresentamos os nossos corpos e almas, em sacrifício vivo, santo e agradável; suplicando-te humildemente que todos os que participamos deste santo sacramento fiquemos cheios da tua graça e bênção celestial. E, embora sejamos indignos de oferecer-te qualquer coisa por causa dos nossos pecados, nós te suplicamos que aceites este nosso serviço e obrigação que te são devidos, não tomando em consideração os nossos méritos, mas perdoando as nossas ofensas, por Jesus Cristo, nosso Senhor, por quem e com quem, na unidade do Espírito Santo, sejam dadas a Ti, ó Pai Altíssimo, toda a honra e glória, pelos séculos dos séculos. Amém</i>
+        \n
+        \n<b><i>(Concluindo, todos de pé, recitam ou cantam o GLORIA IN EXCELSIS:)</i></b>
+        \n<b><i>(TODOS:)</i></b>
+        \n<i>Glória a Deus nas alturas, paz na terra e boa vontade para com os homens. Nós te louvamos, te bendizemos, te adoramos, te glorificamos e te damos graças pela tua glória, Senhor Deus, Rei do Céu, Deus, Pai Omnipotente.</i>
+        \n
+        \n<b><i>(O Ministro:)</i></b>
+        \n<i>Ó Senhor, Unigénito Filho de Deus, Jesus Cristo, Cordeiro de Deus, Filho eterno do Pai, que tiras os pecados do mundo;</i>
+        \n
+        \n<b><i>(TODOS:)</i></b>
+        \n<i>Tem compaixão de nós.</i>
+        \n
+        \n<b><i>(O Ministro:)</i></b>
+        \n<i>Tu que tiras os pecados do mundo;</i>
+        \n
+        \n<b><i>(TODOS:)</i></b>
+        \n<i>Tem misericórdia de nós.</i>
+        \n
+        \n<b><i>(O Ministro:)</i></b>
+        \n<i>Tu que tiras os pecados do mundo;</i>
+        \n
+        \n<b><i>(TODOS:)</i></b>
+        \n<i>Recebe as nossas súplicas.</i>
+        \n
+        \n<b><i>(O Ministro:)</i></b>
+        \n<i>Tu que estás à dextra do Pai,</i>
+        \n
+        \n<b><i>(TODOS:)</i></b>
+        \n<i>Tem compaixão de nós, Porque só Tu és santo; só tu és Senhor; só tu, ó Jesus Cristo, com o Espírito Santo, és o Altíssimo na glória de Deus Pai. Amém.</i>
+        \n
+        \n<b><i>(Então pode-se cantar o Hino final e o Ministro, se julga conveniente, faz uma Oração apropriada e despede a Congregação com esta bênção:)</i></b>
+        \n<i>A paz de Deus que excede toda a compreensão. Guarde os vossos corações e mentes no conhecimento e no amor de Deus, e de Seu Filho Jesus Cristo nosso Senhor. E a bênção de Deus Omnipotente, Pai, Filho e Espirito Santo, seja convosco, e convosco permaneça eternamente.</i>
+        \n<i><b>AMEN</b></i>
+    </string>
+
+    <string name="advento"><b>Advento</b></string>
+
+    <string name="adventox">
+        <i> 1) Levantai, ó portas as vossas cabeças; levantai-vos, ó entradas eternas, e entrará o Rei da Glória.</i>
+        \n<i>(Salmo 24: 7)</i>
+        \n
+        \n<i> 2) E a glória do Senhor se manifestará, e toda a carne juntamente verá que foi a boca do Senhor que isto disse.</i>
+        \n<i>(Isaias 40:5)</i>
+    </string>
+
+    <string name="natal"><b>Natal</b></string>
+
+    <string name="natalx">
+        <i>1) Deus amou o mundo de tal maneira que deu o seu filho unigénito, para que todo aquele que nele crê não pereça mas tenha vida eterna.</i>
+        \n<i>(João 3:16)</i>
+        \n
+        \n<i>2)  Não temais, porque eis aqui vos trago novas de grande alegria, que será para todo o povo; pois na cidade de David, vos nasceu hoje o Salvador, que é Cristo, o Senhor.</i>
+        \n<i>(Lucas 2:10)</i>
+    </string>
+
+    <string name="epifania"><b>Epifânia</b></string>
+
+    <string name="epifaniax">
+        <i>1) Levante-te, resplandece, porque a tua luz, e a glória do Senhor vai Nascendo sobre ti. E  as nações caminharão à luz, e os reis ao resplendor que te nasceu.</i>
+        \n<i>(Isaías 60:1,3)</i>
+        \n
+        \n<i>2) Ainda que outras ovelhas que não são deste aprisco; também me convém agregar estas, e elas ouvirão a minha voz, e haverá um rebanho e um Pastor.</i>
+        \n<i>(João 10:16)</i>
+    </string>
+
+    <string name="quaresma"><b>Quaresma</b></string>
+
+    <string name="quaresmax">
+        <i>1) Vinde, e andemos na luz do Senhor, para que nos ensine o que concerne aos seus caminhos, e andemos nas suas veredas.</i>
+        \n<i>(Isaías 2:53)</i>
+        \n
+        \n<i>2) Buscai ao Senhor enquanto se pode achar, invocai-o enquanto está perto. Deixe o ímpio o seu caminho, e o homem maligno os seus pensamentos, e se converta ao Senhor, que se compadecerá dele. Torne para o nosso Deus, porque grandioso é em Perdoar.</i>
+        \n<i>(Isaías 55:6-7</i>
+    </string>
+
+    <string name="pascoa"><b>Páscoa</b></string>
+
+    <string name="pascoax">
+        <i>1) Ministro - O Senhor Ressuscitou!</i>
+        \n<i>Congregação - O Senhor verdadeiramente Ressuscitou!</i>
+        \n
+        \n<i>2) Portanto, se já ressuscitastes com Cristo, Buscai as coisas que São de Cima, onde Cristo está assentado à dextra de Deus.</i>
+        \n<i>(Col. 3:1)</i>
+        \n
+        \n<i>3) Ministro - Bendito seja o Deus e Pai de Nosso Senhor Jesus Cristo! Que segundo a sua grande misericórdia, nos gerou de novo para uma viva esperança, pela ressurreição de Jesus Cristo dentre os mortos.</i>
+        \n<i>Congregação - Para uma herança incorruptível, incontaminável,e que se não pode marchar.</i>
+        \n<i>(1 Pedro 1: 3-4)</i>
+    </string>
+
+    <string name="pentecoste"><b>Pentecostes</b></string>
+
+    <string name="pentecostex">
+        <i>1) Mas a hora vem, em que os verdadeiros adoradores adorarão o Pai em espírito e em verdade; porque o Pai procura a tais que assim o adorem. Deus e espírito e importa que os que o adoram o adorem em espírito e em verdade.</i>
+        \n<i>(João 4: 23-24)</i>
+        \n
+        \n<i>2) E há-de ser que, depois, derramarei o meu Espírito sobre toda a carne, e vossos filhos e vossas filhas profetizarão, os vossos velhos terão sonhos, e os vossos mancebos terão visões.</i>
+        \n<i>(Joel 2:28)</i>
+    </string>
+
+    <string name="confissao"><b>Confissão e palavras de perdão</b></string>
+
+    <string name="confissaox">
+        <b>I</b>
+        \n<i>Pois quanto o céu está acima da terra, assim é grande a sua misericórdia para com os que o temem. Quanto  está longe o oriente do ocidente, assim afasta de nós as nossas transgressões.</i>
+        \n<i>(Salmo 103:11-12)</i>
+        \n
+        \n<b>II</b>
+        \n<i>Como um pai se compadece de seus filhos, assim o Senhor se compadece daqueles que o temem.</i>
+        \n<i>(Salmo 103:13 )</i>
+        \n
+        \n<b>III</b>
+        \n<i>Piedoso e benigno é o Senhor, sofredor e de grande misericórdia.</i>
+        \n<i>(Salmo 145:8 )</i>
+        \n
+        \n<b>IV</b>
+        \n<i>E esta é a mensagem que dele ouvimos, e vos anunciamos: que Deus é luz, e não há nele trevas nenhumas.  Se andarmos na luz, como ele na luz está, temos comunhão uns com os outros, e o  sangue de Jesus Cristo seu filho, nos purifica de todo o pecado.</i>
+        \n<i>(I João 1: 5,7 )</i>
+        \n
+        \n<b>V</b>
+        \n<i>Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda a injustiça.</i>
+        \n<i>(I João 1:9)</i>
+        \n
+        \n<b>VI</b>
+        \n<i>Porque pelo seu nome vos são perdoados os pecados.</i>
+        \n<i>(I João 2:12b)</i>
+        \n
+        \n<b>VII</b>
+        \n<i>Jesus disse: “ O que vem a mim de maneira nenhuma o lançarei fora”</i>
+        \n<i>(João 6:37b)</i>
+    </string>
+
+    <string name="ofertorio"><b>Ofertório e orações</b></string>
+
+    <string name="ofertoriox">
+        <b>I</b>
+        \n<i>Lembremo-nos das palavras do Senhor Jesus, que disse: mais bem-aventurada coisa é dar do que receber.</i>
+        \n<i>(Actos 20:35)</i>
+        \n
+        \n<b>II</b>
+        \n<i>Assim resplandeça a vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem a vosso Pai que está nos céus,</i>
+        \n<i>(Mateus 5:16)</i>
+        \n
+        \n<b>III</b>
+        \n<i>Cada qual, conforme ao dom da sua mão, conforme a bênção que o Senhor teu Deus te tiver dado.</i>
+        \n<i>(Deut. 16:17)</i>
+        \n
+        \n<b>IV</b>
+        \n<i>E não vos esqueçais da beneficência e comunicação, porque com tais sacrifícios Deus se agrada.</i>
+        \n<i>(Hebreus 13:16)</i>
+        \n
+        \n<b>V</b>
+        \n<i>O que semeia pouco, pouco também ceifará; e o que semeia em abundância em abundância  também ceifará. Cada um contribua segundo propôs no seu coração; não com tristeza, ou por necessidade; porque Deus ama ao que dá com alegria.</i>
+        \n<i>(II Cor. 9:6-7)</i>
+        \n
+        \n<b>VI</b>
+        \n<i>Tua é Senhor,  a magnificência, e o poder, e a honra, e a vitória, e a majestade , porque teu é tudo quanto há nos céus e na terra. Porque tudo vem de ti, e da tua mão to damos.</i>
+        \n<i>(II Crón. 29:11,14)</i>
+        \n
+        \n<b>VII</b>
+        \n<i>Oferece a Deus sacrifício de louvor, e paga ao Altíssimo  os teus votos.</i>
+        \n<i>(Salmo 50:14)</i>
+    </string>
+
+    <string name="bencao"><b>Bênçãos</b></string>
+
+    <string name="bencaox">
+        <b>I</b>
+        \n<i>Ora, aquele que é poderoso para fazer tudo muito mais abundantemente além daquilo que pedimos ou pensamos, segundo o poder que em nós opera, a esse glória na Igreja, por Jesus Cristo, em todas as gerações, para todo o sempre. Amem.</i>
+        \n<i>(Efésios 3:20.21)</i>
+        \n
+        \n<b>II</b>
+        \n<i>E o Deus de toda graça, que em Cristo Jesus vos chamou à sua eterna glória, vos aperfeiçoe, confirme, fortifique e fortaleça. A ele seja glória e o poderio para todo o sempre. Amem.</i>
+        \n<i>(I Pedro 5:10-11)</i>
+        \n
+        \n<b>III</b>
+        \n<i>Ora, aquele que é poderoso para vos guardar de tropeçar, e apresentar-vos irrepreensíveis, com alegria, perante a sua glória, ao único Deus, Salvador nosso por Jesus Cristo, nosso Senhor, seja glória e majestade, domínio e poder, antes de todos os séculos, agora, e para  todo o sempre. Amem.</i>
+        \n<i>(Judas 24-25)</i>
+        \n
+        \n<b>IV</b>
+        \n<i>A graça do nosso Senhor Jesus Cristo, e o amor de Deus, e a comunhão do Espírito Santo Seja com vós todos. Amem.</i>
+        \n<i>(II Cor. 13:13)</i>
+        \n
+        \n<b>V</b>
+        \n<i>O Senhor te abençoe e te guarde; o Senhor  faça resplandecer o seu rosto sobre ti, e tenha misericórdia de ti; o Senhor sobre ti levante o seu rosto e te dê a paz.</i>
+        \n<i>(Números 6:24,26)</i>
+        \n
+        \n<b>VI</b>
+        \n<i>Ora o Deus de paz, que pelo sangue do concerto eterno tornou a trazer dos mortos a nosso Senhor Jesus Cristo, grande pastor das ovelhas, vos aperfeiçoe em toda boa obra, para fazerdes a sua vontade, operando em vós o que perante ele é agradável por Cristo Jesus, ao qual seja glória para todo o sempre. Amem.</i>
+        \n<i>(Hebreus 13: 20-21)</i>
+        \n
+        \n<b>VII</b>
+        \n<i>A paz de Deus que excede toda a compreensão, guarde os vossos corações e mentes no conhecimento e no amor de Deus, e de seu filho Jesus Cristo, nosso Senhor. E a Bênção de Deus Omnipotente, Pai, Filho e Espírito Santo, seja convosco, e convosco permaneça eternamente. AMEM.</i>
+    </string>
+
+    <!-- Textos do prefacio -->
+    <string name="tituloprefacio"><b>PREFÁCIO À TERCEIRA EDIÇÃO</b></string>
+    <string name="notaprefacio">(Conforme o original impresso)</string>
+    <string name="textoprefacio">
+        O hinário "POVO CANTAI!" vai ja na sua terceira edição.
+
+        \n\nPrimeiro, porque as duas primeiras edições deste hinário foram muito bem recebidas pelo Metodismo
+        e pelo Protestantismo angolano em geral, e por isso reclamado também por igrejas que não possuem ainda
+        um livro de hinos seu.
+
+        \n\nAcresce isso o facto da realidade da guerra no nosso país, que continua a levar o povo a abandonar
+        tudo sem olhar para trás, incluindo certamente livros da Igreja, para salvar as suas vidas, ou a vê-los
+        destruídos pelo fogo e pela violência, que tudo consome e mata. O grande número de fiéis que Deus vai
+        acrescentando à sua Igreja é outro factor que clama por mais hinários.
+        O Metodismo "nasceu a cantar" e esse impulso se fará sentir ainda por muitos anos.
+        \n
+        \nDaí o surgimento desta terceira edição de "<b>POVO CANTAI!</b>", que esperamos venha a preencher as lacunas deixadas pelos factos acima referidos. Passaram-se já doze anos desde a primeira publicação deste hinário rico porque invlusivo, numa tentativa de buscarmos "expressar a diversidade da experiência cristã e as verdades fundamentais do Evangelho Libertador".
+
+        \nO Metodismo Angolano agradece a casa Publicadora da Igreja Metodista Unida nos Estados Unidos da América, que custeou as despesas com a impressão destes 50.000 exemplares, e o NÚCLEO - Centro de Publicações Criatãs, Lda., Queluz, Portugal, que pela terceira vez, produz uma edição de "POVO CANTAI!"
+
+        \n"<i>Cantai ao Senhor, Bendizei o Seu Nome: anunciai a sua Salvação de dia em dia."</i>
+        \n(Salmos 96:2)
+        \n
+        \nLuanda - Julho de 1994
+        \n
+        \n<i><b>Emílio Júlio Miguel de Carvalho</b></i>
+        \nBispo
+    </string>
+
+    <!-- Textos Credo apostolico -->
+    <string name="credointro">
+        Para uma melhor leitura, disponibilizamos o <b>Credo Apostólico</b> nos quatro idiomas disponíveis no HPC
+    </string>
+
+    <string name="oracaointro">
+        Para uma melhor leitura, disponibilizamos a <b>Oração do pai nosso</b> nos quatro idiomas disponíveis no HPC
+    </string>
+
+    <!-- Activityes credo apostolico -->
+    <!--credo portugues-->
+    <string name="credopt">
+        \nCreio em Deus, Pai todo Poderoso, Criador do Céu e da terra;
+        \n
+        \nEm Jesus Cristo seu único filho, nosso Senhor;
+        \n
+        \nO qual foi concebido pelo Espirito Santo;
+        \n
+        \nNasceu da virgem Maria e padeceu sob o poder de Pôncio Pilatos;
+        \n
+        \nFoi crucificado, morto e sepultado;
+        \n
+        \nNo terceiro dia resurgiu dos mortos, subiu aos céus, e está sentado a mão direita de Deus, Pai Todo Poderoso, donde há-de vir julgar os vivos e os mortos.
+        \n
+        \nCreio no Espirito Santo;
+        \n
+        \nNa Santa Igreja de Cristo;
+        \n
+        \nNa comunhão dos Santos;
+        \n
+        \nNa remissão dos pedacos;
+        \n
+        \nNa ressurreição do corpo;
+        \n
+        \nE na vida eterna.
+        \n<i>AMÉM</i>.
+        \n
+    </string>
+
+    <!--credo Kikongo-->
+    <string name="credokk">
+        \nKwikidi muna Nzambi "w'eSe", Mpungu Nengolo, Nsemi zulu ye ntoto.
+        \nNkwikidi muna Yisu Klisto wa "Mwan'andi" mosi kaka wa Mfumu eto;
+        \nOna wawutwa kwa ndumba mwenze Malia, muna nkuma "Mwand'avelela", wamwesewa e mpasi kwa Pontio Pilatu;
+        \nWakomwa vana kuluzu, wafwa ye wazikwa;
+        \nMuna lumbu kiantatu wafuluka mu bafwa;
+        \nWatombuka "kun'e" zulu, kukavwandanga kuna koko kwa lunene kwa Nzambi, Mpungu Wisa, se kavutuka diaka yo kwiza fundisa wana bena moyo yo wana bafwa.
+        \nNkwikidi muna "Mwand'avelela";
+        \nMuna dibundu "di'aveledi";
+        \nMuna luloloko lwa masumu, muna lufuluku lwa nitu;
+        \nYo muna moyo wa mvu ya mvu.
+        \n<i>AMÉM</i>.
+    </string>
+
+    <!--credo Umbuundo-->
+    <string name="credoub">
+        \nNala ku Suku Tate, o kola, Usovoli wovailu kuenda osi,
+        \nLoku Yesu Kristo, omola a Suku wongunga, eye Ñala yetu.
+        \nHa eye wa eciwa le Espiritu Sandu.
+        \nWa citiwa lufeko Maria;
+        \nWa tala ohali ku Pondio Pilato, wa nyoñamisua komindikiso, wa fa, wa kendiwa;
+        \nEteke lia tatu wa pinduka puiwa londa kilu wa tumala kondio ya Suku, o kola, Isiahe;
+        \nHaiko a ka tunda ha yali ekenga liomanu, ava va kasi lomuenyo lava va fa.
+        \nNava ke Espiritu Sandu;
+        \nLokekongelo li kola liokolofeka viosi;
+        \nLokongongela yavakuesunga lia Suku;
+        \nLoku ecelua akandu;
+        \nKuenda kepinduko lietimba lomuenyo kopui.
+        \n<i>AMÉM</i>.
+    </string>
+
+    <!--credo Kimbundo-->
+    <string name="credokb">
+        \nEme nga xikana Nzambi;
+        \nTata ua tena ioso, Mubangi a diulu ni oxi, ni Jezu Kristo;
+        \n"Mon'ê" umoxi èlele, Ngana ietu;
+        \nMutu a mu imita kua Nzambi Ikôla;
+        \nA mu vuala kua muzeletete Nga Madiia;
+        \nU bhita ku jiphaxi kua Pônso Pilatu;
+        \nA mu phaphela ku diklusu ufua anga a mu funda kizua kiá katatu anga ufukunuka "ku'alunga";
+        \nU banda ku diulu, anga u xikama ku lukuaku lua kúdia lua Nzambi;
+        \nTata ua tena ioso, kuenhoko phe hinu ua kà tunda-ku;
+        \nKuiza kufundisa oso ala hanji ni muenhu, ni iá afua kiá;
+        \nNga xikana Nzumbi ikôla ia Nzambi ó Ngeleja iê imoxi mu ngongo ioso;
+        \nO kisangela mudiâ kiá athu oso a mu tokala;
+        \nO ituxi ku iloloka;
+        \nO mukutu kufukunuka, ni muenhu ki u moneka dizubilu.
+        \n<i>AMÉM</i>.
+    </string>
+
+    <!-- Activityes oração dominical -->
+    <!-- Oração português -->
+    <string name="oracaopt">
+        \nPai nosso, que estás nos Céus, satificado seja o teu Nome;
+        \nVenha ao teu reino;
+        \nSeja feita a tua vontade assim na terra, como nos Céus;
+        \nO pão nosso de cada dia nos dá hoje;
+        \nPerdoa as nossas dívidas, assim como nós perdoamos os nosso devedores;
+        \nNão nos deixes cair em tentação, mas livra-nos do mal;
+        \nPois teu é o reino;
+        \nO poder e a glória para sempre.
+        \<i>AMÉM</i>.
+        \n
+        \nMateus 6:9-13
+    </string>
+
+    <!--Oração Kikongo -->
+    <string name="oracaokk">
+        \nE sê dieto koko zulu, bika nkumbu aku ya zitiswa ye kimfumu kiakiza;
+        \nO luzolo luaku lwa vangama;
+        \nVava ntsi ne i koko zulu oh dia kweto kwalumbu kié lumbu utu "'vana";
+        \nUtuloloka masumu meto;
+        \nEndoloka tu lolokanga a tanto etu kutu yambudi ko twa bwa mu mpukumini kansi utu vuluza muna mbi;
+        \nKadi kiaku i kinfumu, Ye ngongo;
+        \nYe nkembo, a mvu ya mvu.
+        \n<i>AMÉM</i>.
+        \n
+        \nMateus 6:9-13
+    </string>
+
+    <!-- Oração Umbundo -->
+    <string name="oracaoub">
+        \nA lsietu o kasi kilu, onduku yeve yi sumbiwe, usoma wove wiyei;
+        \nTu ihe o kuilia kuetu kuetaili;
+        \nTu ecele okulueya kuetu ndeci tu ecoila ava va tu lueyela;
+        \nKu ka tu singuile veyonjo;
+        \nPuãi tu popele kuvi, Mona Usoma, wove;
+        \nUnene wove, ulamba wove;
+        \nOlonene vi enda ñoo hu.
+        \n<i>AMÉM</i>
+        \n
+        \nMateus 6:9-13
+    </string>
+
+    <!-- Oração Kimbundo -->
+    <string name="oracaokb">
+        \nTata ietu uene mu diulu, dijina dia a dixile, Utuminu ue uize;
+        \nVondadi ie a i bhange mu ngongo;
+        \nKala kia i bhanga ku diulu;
+        \nKudia kuetu kua kizua tu bhane-ku lelu;
+        \nTu loloke o ikuma ietu, kala ki tu loloka akuetu oso a tu bhanga kiaibha;
+        \nKu tu ehele ku dibhata mu mibhetu ia diabhu;
+        \nMaji tumbhuletu mu ituxi, mbata eie ngana;
+        \nNi nguzu, ni fuma se dizubhilu.
+        \n<i>AMÉM</i>.
+        \n
+        \nMateus 6:9-13
+    </string>
+
+    <string name="politicas_de_privacidade">
+        Esta política de privacidade regula o uso do app HPCMobile, seus conteúdos, funcionalidade e recursos.
+        \n
+        \n<b>1. Informações fornecidas pelo usuário</b>
+        \nO aplicativo não obtém informações fornecidas quando você baixa o aplicativo nem solicita o seu registro.
+        \n
+        \n<b>2. Informações coletadas automaticamente</b>
+        \nO aplicativo não colecta informações automaticamente de nenhuma forma.
+        \n
+        \n<b>3. Coleta de dados de geolocalização</b>
+        \nO aplicativo não colecta dados de geolocalização (GPS) do usuário.
+        \n
+        \n<b>4. Partilha de dados com terceiros</b>
+        \nO aplicativo não fornece por nenhum meio dados do usuário à terceiros.
+        \n
+        \n<b>5. Utilização de recursos do sistema</b>
+        \nO aplicativo poderá solicitar que permita:
+        \n- Acesso a internet.
+        \n
+        \n<b>6. Publicidade</b>
+        \nO aplicativo poderá enviar publicidade:
+        \n- Google AdMob.
+        \n
+        \n<b>7. Alterações</b>
+        \nEsta Política de Privacidade poderá ser atualizada periodicamente por qualquer motivo. É
+        aconselhável consultar regularmente esta Política de Privacidade sobre quaisquer alterações, uma
+        vez que o uso continuado é considerado aprovação de todas as alterações.
+        \n
+        \n<b>8. Entre em contato</b>
+        \nEm caso de dúvidas por favor escreva para "<b><i>tanamoda1@gmail.com</i></b>"
+    </string>
+    <string name="propriedade">O HPCMobile é uma edição digital do HPC propriedade da IMUA</string>
+
+    <string name="alertaTitulo"><b>Ajude-nos a melhorar</b></string>
+    <string name="alertaMensagem">
+        O <b>HPCMobile</b> é grátis, manter a app e suas atualizações
+        têm custos.
+        \n
+        \nPara ajudar-nos, basta fazer-nos uma doação.
+        \n
+        \n<b>Você não é obrigado a fazer isso</b>, apenas ajude quem está melhorando
+        e mantendo o <b>HPCMobile</b> simples e atual para você.
+        \n
+        \nA Equipe <b>HPCMobile</b> agradece.
+    </string>
+    <string name="alertaTitulofixe">
+        <b>Contamos consigo!</b>
+    </string>
+
+    <string name="alertaMensagemCurta">
+        <b>Não se esqueça de clicar nas publicidades ou de fazer-nos uma doação</b>, o teu suporte
+        ajuda-nos a melhorar cada dia.
+        \n
+        \n
+        \nA Equipe <b>HPCMobile</b> agradece.
+    </string>
+
+    <string name="acerca">Acerca</string>
+    <string name="patrocinador">Patrocinador</string>
+    <string name="calendario">2020</string>
+    <string name="contactos">Contactos</string>
+    <string name="email">tanamoda1@gmail.com</string>
+    <string name="whatsapp">+351 934 785 888</string>
+    <string name="cordeiroalves">E. Cordeiro Alves</string>
+    <string name="doarEuros">Para doares em Euros use os dados abaixo. Valor mínimo 15,00Euros</string>
+    <string name="cgd">Caixa Geral de Depósitos - CGD</string>
+    <string name="doarKwanza">Para doares em Kwanzas use os dados abaixo. Valor minimo 1000,00Kzs</string>
+    <string name="bpa">Banco Millennium Atlântico - BPA</string>
+    <string name="comoDoar">Como doar?</string>
+    <string name="facaDoacao">Faça a sua doação, entre na lista dos amigos HPCMobile e deixe todos saberem que és um Amigo HPCMobile</string>
+    <string name="conta">Conta:</string>
+    <string name="iban">IBAN:</string>
+    <string name="nib">NIB:</string>
+    <string name="contaCGD">0692018073530</string>
+    <string name="ibanCGD">PT50 0035 0692 0001 8073 5301 3</string>
+    <string name="nibCGD">0035 0692 0001 8073 5301 3</string>
+    <string name="contaBPA">48515942 10 001</string>
+    <string name="ibanBPA">AO06 0055 0000 4851 5942 1017 7</string>
+    <string name="nibBPA">0055 0000 4851 5942 1017 7</string>
+    <string name="informacoesUsuarios">Informações ao usuário</string>
+    <string name="comodoarx">
+        Você pode fazer parte da comunidade <b>HPCMobile</b> fazendo uma doação a nossa equipe
+        que arduamente tem trabalhado para melhorar a nossa app.
+        \n
+        \nPara isso basta seguir os passos abaixo, é simples e sem complicações.
+        <b>Você não é obrigado a doar</b> para fazer parte da <b>comunidade HPCMobile</b>.
+        A comunidade é de todos aqueles que fazem uso da app e se sintam parte
+        integrante da equipe e principalmente um amigo <b>HPCMobile</b>. <b>No entanto
+        temos despezas das quais precisamos do seu suporte para manter a app grátis</b>.
+        \n
+        \n1 - Escolha a moeda;
+        \n2 - Faça uma transferência ou depósito nas coordenadas indicadas.
+        <!--
+        \n3 - Faça o seu registo em wwww.hpcmobile.com;
+        \n4 - Depois do registo o seu nome estará disponível na lista da comunidade.
+        -->
+    </string>
+    <string name="comunidade">Comunidade HPCMobile</string>
+    <string name="minhaigreja">Minha Igreja</string>
+    <string name="colaboradores">Colaboradores</string>
+    <string name="gestor">Gestor do Projecto/Desenvolvedor</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="home">Home</string>
+    <string name="darkMode">Ativar/Desativar modo escuro</string>
+    <string name="fechar">Fechar</string>
+    <string name="feliz01">20 de Janeiro
+        \ndia da criança Metodista
+    </string>
+
+    <string name="criancaMensagen">
+        Deixai vir a mim as crianças, porque delas é o reino dos céus
+        \nMateus 19:14
+        \n
+        \nVamos Proteger, Amar e Instruir as crianças segundo os objetivos
+        que temos para elas, assim, mesmo com o passar do tempo ela não se desviará deles.
+    </string>
+</resources>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hinos_kk_num_titulos">
+        <item>1. ENZA IN’AK’E BU</item>
+        <item>2. AKLISTO DO NUKEMBELA</item>
+        <item>3. MVULUZI, NUMKEMBEL’AKA</item>
+        <item>4. NGE E NZAMBI AMPUNGU, WAVELELA BENI</item>
+        <item>5. TUKEMBELA NGE, E NZAMBI O SE</item>
+        <item>6. O NZAMBI ETO I TININU</item>
+        <item>7. KUTU LUTIKO E YISU</item>
+        <item>8. KWA NZAMBI TATA WA NKEMBU UZOLANGE NSI</item>
+        <item>9. DOXOLOGIAS</item>
+        <item>10. MFUMU NZAMBI, TWITI LOMBA KWA NGE</item>
+        <item>11. O MFUMU YISU OKEMBELWA</item>
+        <item>12. NATA YAKU E NKUMBU A YISU</item>
+        <item>13. E NZOLA KATUZOLELE</item>
+        <item>14. E ZULA YAWONSO YABUKAMW’O BI</item>
+        <item>15. NGEYE WANSOLOWA, YANDAL’AKAKA</item>
+        <item>16. O MPUNGI-NKEND’OFINAMA</item>
+        <item>17. O WAU TUZEY’E NSANGU EZI</item>
+        <item>18. NANI WA IZA OHA NSI? YISU MFUMU ETU</item>
+        <item>19. ÔWAU SAMU WA MFUMU, ALELUYA</item>
+        <item>20. O YISU O NKEMBO ASISIDI</item>
+        <item>21. YISU NGE MAKANGU METO</item>
+        <item>22. KAMBA DIMOSI TUNA, Ó YISU HULUDI</item>
+        <item>23. E NZAMBI UMFINIKA OKO KWA NGE</item>
+        <item>24. O FUKU WAU, E YISU UNGIKAMA</item>
+        <item>25. O MVULUZI, VAVA KAKAL’OVA NZA</item>
+        <item>26. ENTANGWA KIESE YAIMPE</item>
+        <item>27. KE VENA NKUNDI  KO NZE I YISU</item>
+        <item>28. O MAMEME MATOMA VUVAMA</item>
+        <item>29. HUNGUDI WAME JEOVA</item>
+        <item>30. NANI YANDI ZOLELE FWETE SAMBILA</item>
+        <item>31. LENGELU DIAME NGEYE YISU</item>
+        <item>32. KAMBA NSANGU ZA MBOTE</item>
+        <item>33. NGWIDI NDINGA MBOTE</item>
+        <item>34. HEI FITAKANA KWA YISU</item>
+        <item>35. KUNA  MBANZA A BETANIA</item>
+        <item>36. MWA KATU NGWELELE, Ô MFUMU HOOLELE</item>
+        <item>37. E YISU MFUMU  AME O NSILU NSIDI WO</item>
+        <item>38. A MAKESA MA YISU</item>
+        <item>39. E NSANGU ZA YISU KLISTO</item>
+        <item>40. ZENU AMBUTA MUNA NGOLO</item>
+        <item>41. YISU I VULUKILU</item>
+        <item>42. MA SOLADI MA YISU</item>
+        <item>43. DIANSAMBU EDIADI EKANGU</item>
+        <item>44. NZAMBI TAMBULA</item>
+        <item>45. E MFUMU NZAMBI AMPUNGU</item>
+        <item>46. KU MESA MPE TU VENDE</item>
+        <item>47. E KLISTU WATUKULA MONA MBI</item>
+        <item>48. O DIA KWA MOYO, DO UMBUKWINA</item>
+        <item>49. KUNANG’E MBONGO, E MBONGO A KENDA</item>
+        <item>50. SALA, O FUKU UKWIZA, SIAM’O SALA WAU</item>
+        <item>51. KUNA SALU O NZAMBI TUNSADILa</item>
+        <item>52. NGATU TELAMA KUNA VITA YAI</item>
+        <item>53. ENTOVOKI, NZA VUNDA DO</item>
+        <item>54. E MFUMU, MU TEMBWA KIAMPWENA</item>
+        <item>55. YAKANGALA MUNA MIONGO</item>
+        <item>56. IDIHELE KWA YISU MFUMU AME</item>
+        <item>57. PULU KIDI KWAME NGINA YO YISU</item>
+        <item>58. NGINA YE KIESE MBWENE YISU</item>
+        <item>59. NGAYA LANDA YISU MUNA MPASI ZANDI</item>
+        <item>60. AMPANGI TWENDA KWETU, KUBULULA A VILA</item>
+        <item>61. YENU AMPANGI TUNA OHA HA NSI</item>
+        <item>62. NTIMA MOSI MOSI USOTA</item>
+        <item>63. A WONSO AHOHA MPASI</item>
+        <item>64. E BUNDU DIA NZAMBI SE DIHUKU MUNWA</item>
+        <item>65. E MBEK’AMPUWENA I MVULUZI</item>
+        <item>66. WA KIELEKO WAU! WA KIELEKO WAu</item>
+        <item>67. VANENU MI KAILU KWA NZAMBI VANENU MU NTIMA</item>
+        <item>68. WA! E NZIMBU ZETO</item>
+        <item>69. TUVATANGA E YANA</item>
+        <item>70. OV’OZINGIDILWA  MUNA BI WA NZA</item>
+        <item>71. NSAMBU YE NSAMBU ZIKWIZA</item>
+        <item>72. O FUKU VAV’AVUNGUDI</item>
+        <item>73. EMPATA-VAT’A BETELEM</item>
+        <item>74. NDONGA YINGI IZIDI KALA</item>
+        <item>75. LUHUHAMU Ô FUKU WAU</item>
+        <item>76. MUNA MPAKA YA ITWIZI</item>
+        <item>77. MINKWIKIZI NWIZA</item>
+        <item>78. Ô MFUMU YISU WA KO MWA</item>
+        <item>79. VENA YE NTO YATEMPOKA</item>
+        <item>80. YA FWILA MUNA NTI</item>
+        <item>81. VANA NDAMBU EKULUZU</item>
+        <item>82. YISU KAKA MVULUZI, YANDI YISU KAKA</item>
+        <item>83. MU FULU KIA ME KA FWILA</item>
+        <item>84. MFUMU YISU MUNA NTI YANDI</item>
+        <item>85. KLISTO WAFULUKA O UNO! ALELUYA</item>
+        <item>86. MU NKAL’AZIKILWA MVULUZI AME</item>
+        <item>87. YISU BUKADI SONGA</item>
+        <item>88. YIMBILA TUYIMBILA</item>
+        <item>89. MVU AKAKA ULUNGIDI</item>
+        <item>90. E WAME MOYO SIKAMA</item>
+        <item>91. LUMBU EKI KIVWIDI, FUKU UKWIZANGA</item>
+        <item>92. KIVWIDI, E MFUMU, E LUMBU WAVANA</item>
+        <item>93. MWANA  KA VIDI  NGWANDI</item>
+        <item>94. NZAMBI ET’OKUTUYIKAMA</item>
+        <item>95. LUAKA TUSA LUAK’E NZADI</item>
+        <item>96. TUAKAKALA  KWA MFUMU YISU</item>
+        <item>97. NUYINDUL’E  NSI  INA KO</item>
+        <item>98. KI YANGU KIDI EKIELU</item>
+        <item>99. KUNA ZULU NZAMBI LUDIKIDI</item>
+        <item>100. E MVU MINA ÔHAHA NSI</item>
+        <item>101. MFUMU YISU UNA KWIZA</item>
+        <item>102. VAV’E MPUNG A MFUMU ITATULA YE NZA IVEMPOKA</item>
+        <item>103. Ô HULUDI WAME KU ZULU KENA</item>
+        <item>104. ALEKE A YELUSALEM</item>
+        <item>105. YISU UTUZOLELE</item>
+        <item>106. ALEKE NWIZA, TWENDA WAU</item>
+        <item>107. ZENU ALENKE TWENDA KWA YISU</item>
+    </string-array>
+</resources>

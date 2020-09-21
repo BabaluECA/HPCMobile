@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.eca.hpcmobile">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_imu"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ConfiguracaoActivity"></activity>
+        <activity android:name=".MinhaIgrejaActivity" />
+        <activity android:name=".ComunidadeActivity" />
+        <activity android:name=".ComoDoarActivity" />
+        <activity android:name=".DezembroActivity" />
+        <activity android:name=".NovembroActivity" />
+        <activity android:name=".OutubroActivity" />
+        <activity android:name=".SetembroActivity" />
+        <activity android:name=".AgostoActivity" />
+        <activity android:name=".JulhoActivity" />
+        <activity android:name=".JunhoActivity" />
+        <activity android:name=".MaioActivity" />
+        <activity android:name=".AbrilActivity" />
+        <activity android:name=".MarcoActivity" />
+        <activity android:name=".FevereiroActivity" />
+        <activity android:name=".JaneiroActivity" />
+        <activity android:name=".EuroActivity" />
+        <activity android:name=".KwanzaActivity" />
+        <activity android:name=".DoacoesActivity" />
+        <activity android:name=".ContactoActivity" />
+        <activity android:name=".ApocalipseActivity" />
+        <activity android:name=".SaoLucas1Activity" />
+        <activity android:name=".CalendarActivity" />
+        <activity
+            android:name=".SplashBabaluECAActivity"
+            android:theme="@style/Fullscreen" />
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/Fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".HinosKikongoActivity" />
+        <activity android:name=".HinosUmbundoActivity" />
+        <activity android:name=".GetHinoActivity" />
+        <activity android:name=".CreditosActivity" />
+        <activity android:name=".PoliticasPrivacidadeActivity" />
+        <activity android:name=".HinosKimbundoActivity" />
+        <activity android:name=".HinosPortuguesActivity" />
+        <activity android:name=".CredoKbActivity" />
+        <activity android:name=".CredoUbActivity" />
+        <activity android:name=".CredoKkActivity" />
+        <activity android:name=".CredoPtActivity" />
+        <activity android:name=".CredoApostolicoActivity" />
+        <activity android:name=".OracaoPtActivity" />
+        <activity android:name=".OracaoUbActivity" />
+        <activity android:name=".OracaoKkActivity" />
+        <activity android:name=".OracaoKbActivity" />
+        <activity android:name=".OracaoDominicalActivity" />
+        <activity android:name=".RitualSantaCeiaActivity" />
+        <activity android:name=".OfertorioActivity" />
+        <activity android:name=".PentecosteActivity" />
+        <activity android:name=".PascoaActivity" />
+        <activity android:name=".QuaresmaActivity" />
+        <activity android:name=".EpifaniaActivity" />
+        <activity android:name=".NatalActivity" />
+        <activity android:name=".ConfissaoActivity" />
+        <activity android:name=".BencaoActivity" />
+        <activity android:name=".AdventoActivity" />
+        <activity android:name=".InvocacaoChamadasActivity" />
+        <activity android:name=".SaoMateusActivity" />
+        <activity android:name=".SaoLucasActivity" />
+        <activity android:name=".Salmos90Activity" />
+        <activity android:name=".Salmos8Activity" />
+        <activity android:name=".Salmos72Activity" />
+        <activity android:name=".Salmos67Activity" />
+        <activity android:name=".Salmos46Activity" />
+        <activity android:name=".Salmos24Activity" />
+        <activity android:name=".Salmos23Activity" />
+        <activity android:name=".Salmos150Activity" />
+        <activity android:name=".Salmos15Activity" />
+        <activity android:name=".Salmos1Activity" />
+        <activity android:name=".Salmos139Activity" />
+        <activity android:name=".Salmos103Activity" />
+        <activity android:name=".Salmos100Activity" />
+        <activity android:name=".LeituraRActivity" />
+        <activity android:name=".ContentActivity" />
+        <activity android:name=".PrefacioActivity" />
+        <activity android:name=".MainActivity" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3977344709856457~2147617584" />
+    </application>
+
+</manifest>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OracaoDominicalActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="5dp"
+            android:text="@string/oracaodominical1"
+            android:textAlignment="center"
+            android:textAppearance="?android:textAppearanceLarge" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="5dp"
+            android:text="@string/oracaointro"
+            android:textAlignment="center"
+            android:textAppearance="?android:textAppearanceLarge" />
+
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:alignmentMode="alignMargins"
+            android:columnCount="1"
+            android:columnOrderPreserved="false"
+            android:rowCount="4">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_margin="12sp"
+                android:clickable="true"
+                android:focusable="true"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:onClick="btnPortugues"
+                app:cardBackgroundColor="@color/cardview_light_bg"
+                app:cardCornerRadius="10sp"
+                app:cardElevation="6sp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:padding="6sp">
+
+                    <ImageView
+                        android:layout_width="50sp"
+                        android:layout_height="50sp"
+                        android:src="@drawable/ic_doc_page" />
+
+                    <TextView
+                        android:id="@+id/btnPortugues"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5sp"
+                        android:layout_marginTop="12sp"
+                        android:text="@string/portugues"
+                        android:textColor="@color/cardTexColor"
+                        android:textSize="20sp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_margin="12sp"
+                android:clickable="true"
+                android:focusable="true"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:onClick="btnKikongo"
+                app:cardBackgroundColor="@color/cardview_light_bg"
+                app:cardCornerRadius="10sp"
+                app:cardElevation="6sp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:padding="6sp">
+
+                    <ImageView
+                        android:layout_width="50sp"
+                        android:layout_height="50sp"
+                        android:src="@drawable/ic_doc_page" />
+
+                    <TextView
+                        android:id="@+id/btnKikongo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5sp"
+                        android:layout_marginTop="12sp"
+                        android:text="@string/kikongo"
+                        android:textColor="@color/cardTexColor"
+                        android:textSize="20sp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_margin="12sp"
+                android:clickable="true"
+                android:focusable="true"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:onClick="btnUmbundo"
+                app:cardBackgroundColor="@color/cardview_light_bg"
+                app:cardCornerRadius="10sp"
+                app:cardElevation="6sp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:padding="6sp">
+
+                    <ImageView
+                        android:layout_width="50sp"
+                        android:layout_height="50sp"
+                        android:src="@drawable/ic_doc_page" />
+
+                    <TextView
+                        android:id="@+id/btnUmbundo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5sp"
+                        android:layout_marginTop="12sp"
+                        android:text="@string/umbundo"
+                        android:textColor="@color/cardTexColor"
+                        android:textSize="20sp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_margin="12sp"
+                android:clickable="true"
+                android:focusable="true"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:onClick="btnKimbundo"
+                app:cardBackgroundColor="@color/cardview_light_bg"
+                app:cardCornerRadius="10sp"
+                app:cardElevation="6sp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:padding="6sp">
+
+                    <ImageView
+                        android:layout_width="50sp"
+                        android:layout_height="50sp"
+                        android:src="@drawable/ic_doc_page" />
+
+                    <TextView
+                        android:id="@+id/btnKimbundo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5sp"
+                        android:layout_marginTop="12sp"
+                        android:text="@string/kimbundo"
+                        android:textColor="@color/cardTexColor"
+                        android:textSize="20sp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+        </GridLayout>
+    </LinearLayout>
+</ScrollView>

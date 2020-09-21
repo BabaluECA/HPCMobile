@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hinos_kb_num_titulos">
+        <item>1. KUXIMANA NGANA</item>
+        <item>2. NZAMBI IETU IZE KIA</item>
+        <item>3. XIMANENU KIBAMUENIU</item>
+        <item>4. NGANA NZAMBI UKOLA</item>
+        <item>5. NGANA NZAMBI UKÔLA</item>
+        <item>6. XIMANA NZAMBI</item>
+        <item>7. KUXIMANA KI KUENE MBAMBE</item>
+        <item>8. NGI XIMANA KIÁ</item>
+        <item>9. XIMANENU NZAMBI UKÔLA</item>
+        <item>10. NZAMBI UKUDILA</item>
+        <item>11. KUBONGOLOKA KU MAMBU</item>
+        <item>12. JEZÚ UKALA BUA BONGOLOKA ATU Ê</item>
+        <item>13. NGI XIMANA</item>
+        <item>14. JEHOVA DILEMBA DIA MUNDU UÊ</item>
+        <item>15. NGI LEMBALALE NGANA</item>
+        <item>16. TU XIMANA O DIJINA DIA NZAMBI</item>
+        <item>II. A GLÓRIA PATRI</item>
+        <item>III. DOXOLOGIA</item>
+        <item>17. KRISTU U BULULA</item>
+        <item>18. A MU HINGISE</item>
+        <item>19. KUIMBILA JEZÚ</item>
+        <item>20. JEZÚ MUKENGEJI UA MUNDU20</item>
+        <item>21. K’IZA PAXI JÉ</item>
+        <item>22. DILUNDA DIA KRISTU</item>
+        <item>23. KI XIKANA KU I TANGA</item>
+        <item>24. JEZÚ DIAMI</item>
+        <item>25. KUIMBA IZUUA IOSO</item>
+        <item>26. JEZÚ NGÓ DIKAMBA</item>
+        <item>27. UOSO U MU XIKANA</item>
+        <item>28. KUBANA KIDIDI KUA JEZÚ</item>
+        <item>29. KUTUMAKA JEZÚ</item>
+        <item>30. UOSO UA MESENA EZE</item>
+        <item>31. MUSONII UEZA</item>
+        <item>32. EHELA MUKENGEJI</item>
+        <item>33. UOSO UANDALA</item>
+        <item>34. KULENGELA KUA JEZÚ</item>
+        <item>35. O MBUDI IA JIMBILA</item>
+        <item>36. KUTULA IMBAMBA KUA JEZÚ</item>
+        <item>37. BUOSO BUALA KRISTU DIULU DIENE</item>
+        <item>38. NGI FULA KIEBI KUIMBA</item>
+        <item>39. JEHOVA MUBIDI UAMI</item>
+        <item>40. NZAMBI HENDA</item>
+        <item>41. NZAMBI U KU"'"INGAMUNIU UÊ</item>
+        <item>42. TADI DIA DIKUATEKESU</item>
+        <item>43. KUBINGA NZUMBI IA NZAMBI</item>
+        <item>44. NZAMBI UKOLA</item>
+        <item>45. NZAMBI UKÔLA BÁ</item>
+        <item>46. NGANA JEZÚ LELU IÚ BHITA</item>
+        <item>47. NGALA KUIVUA KUZEDIA</item>
+        <item>48. NGENDA JINGA NI JEZÚ</item>
+        <item>49. KUSAMBELA MUKENU</item>
+        <item>50. JEZÚ NGA KU ZOLA</item>
+        <item>51. DINIOHENU DIA KIDI</item>
+        <item>52. MAKUENZE IMANENU</item>
+        <item>53. UKAMBA UA JEZÚ</item>
+        <item>54. KAMBA DIA MUXIMA</item>
+        <item>55. DIKAMBA DIA KIDI</item>
+        <item>56. KU TANGA IOSO KUA KRISTU</item>
+        <item>57. BUALA NZAMBI, UOMA KANA</item>
+        <item>58. MUTU A MU VUALA DINGI</item>
+        <item>59. LELU NGEVU KIA BANGELE</item>
+        <item>60. EIE, NGANA, U ZUELA</item>
+        <item>61. KUKONDAMA KUA NGANA</item>
+        <item>62. LÚKUAKU LUA JEZÚ</item>
+        <item>63. KUSOTA JIMBUDI JÊ</item>
+        <item>64. TANGELA JEZÚ</item>
+        <item>65. KU ITA KIÁ</item>
+        <item>66. ITA IA NGANA</item>
+        <item>67. ITA I’AN’A NZAMBI NI MADIABU</item>
+        <item>68. NDENU PE MU NGONGO IOSO</item>
+        <item>69. IVUA, IVUA O MIXINDU</item>
+        <item>70. KUDILA KI KU BULULA</item>
+        <item>71. KANA KU UBEKA</item>
+        <item>72. MUIMBU UA MAXIKILE MA NZAMBI</item>
+        <item>73. TAKULA NGOJI</item>
+        <item>74. KABILA KAMBOTE</item>
+        <item>75. JEZÚ UA ZOLA ANA-NDENGE</item>
+        <item>76. JEZÚ’KAMBA DI’ANA-NDENGE</item>
+        <item>77. KUXIMANA KUA ANA-NDENGE</item>
+        <item>78. MUENIU SAI</item>
+        <item>79. TUENDESE, SOBA IETU</item>
+        <item>80. AKUNJI A NZAMBI</item>
+        <item>81. MUIMBU UA KUKALAKALA</item>
+        <item>82. SAI KIKALAKALU</item>
+        <item>83. A TU KASE KU MULENGA</item>
+        <item>84. MADIUANU MA KIÁDI KIÊ</item>
+        <item>85. NG’ENDESE, NGANA JEZÚ</item>
+        <item>86. TU BONGOLOLA IBUNDU IÊ</item>
+        <item>87. NGANA UA NGI JITUNA</item>
+        <item>88. KUVUTUKA DINGI</item>
+        <item>89. KUTUBULA NGONGE IA NGANA</item>
+        <item>90. KUSOTA IÁ JIMBIDILA</item>
+        <item>91. MUIMBU UA KUTOLOLA</item>
+        <item>92. «HELE IOSO I NG’IBHUA»</item>
+        <item>93. «UEMBU UE… KIDI KIÊ»</item>
+        <item>94. «MUKUA ITUXI KU KALE NI KAXIXI»</item>
+        <item>95. «DANIELE U JIZA MU SAMBA»</item>
+        <item>96. «KANA KUITAIA MU TENDASÁ»</item>
+        <item>97. «NGUNGA JA NGALASA»</item>
+        <item>98. «DIKONGO DIÒJIMUNE KIÁ»</item>
+        <item>99. TUA LUNGU KU DIULU</item>
+        <item>100. «MUTU KU DI BANA KUA NGANA»</item>
+        <item>101. «NJIMBU IAMBOTE»</item>
+        <item>102. «KUBIKILA JEZÚ SAI FUTU IÊ»</item>
+        <item>103. «HENDA I NGA BANGELE MU NGONGO»</item>
+        <item>104. KIBAMUENIU A MU VUALA</item>
+        <item>105. UVADIUE UA JEZÚ</item>
+        <item>106. KIEVU ABIDI MU BELEME</item>
+        <item>107. MU SANZALA IA DAVIDI</item>
+        <item>108. KIÁ NATALE</item>
+        <item>109. NGALASA MU NGONGO IOSO</item>
+        <item>110. SAI KIDIDI KIÁ JEZÚ KU MUXIMA</item>
+        <item>111. KUEJILE MU USUKU IÓ</item>
+        <item>112. ABHIDI A JIMBUDI</item>
+        <item>113. ZEKA KAMONA JEZÚ</item>
+        <item>MUIMBU UA NATALE</item>
+        <item>114. MU KIDILU KIÁ JINGOMBE</item>
+        <item>115. NOEL</item>
+        <item>116. ETU NGANGA JITATU</item>
+        <item>117. KUDIELELA MUENIU KI UABUE</item>
+        <item>118. MUTU UA MALAMBA</item>
+        <item>119. UXIBULU UA KIDI</item>
+        <item>120. NGETSEMANE</item>
+        <item>121. KI NGI BANZA KUFUA KUA JEZÚ</item>
+        <item>122. CALVÁRIO</item>
+        <item>123. MANIINGA MA JEZÚ</item>
+        <item>124. KIMINIU KIÁ JEZÚ</item>
+        <item>125. KUBANZA DIKULUSU</item>
+        <item>126. KU DIKULUSU DIA JEZÚ</item>
+        <item>127. DIKU"'"LUSU DIA JEZÚ</item>
+        <item>128. SANGE IÊ</item>
+        <item>129. KUKOLA KIKOUE</item>
+        <item>130. NGANA JEZÚ UA FUKUNUNA</item>
+        <item>131. MUIMBU UA PASU</item>
+        <item>132. FUMANESA JEZÚ</item>
+        <item>133. TUA MI TANESA MU DIJINA DIA NGANA</item>
+        <item>134. MABESÁ AVULU</item>
+        <item>135. MADIBESA KALA MVULA</item>
+        <item>136. NZAMBI UDISA OSO</item>
+        <item>137. MUIMBU UA KU SAKIDILA</item>
+        <item>138. KIÁ LUMINGU MU NGOLOXI</item>
+        <item>139. KU IMA IOSO O HENDA KOTA</item>
+        <item>140. MONA KUJIMBI MANII"'"ENU</item>
+        <item>141. O HENDA IA MAIN"'"IETU</item>
+        <item>142. KU DI LEKELA</item>
+        <item>143. KIDIDI KU DIULU</item>
+        <item>144. TU DI MONA DI"'"KU "'"SAMBUA</item>
+        <item>145. «KU DIULLU KANA-KU KU DI LEKELA»</item>
+        <item>146. DIULU DISAMBUA</item>
+        <item>147. IXI IA MBOTE</item>
+        <item>148. DIBITU DIA DIULU</item>
+        <item>149. DIBHATA DIETU</item>
+        <item>150. DIJINA MU DIVULU DIA MUENIU</item>
+        <item>151. KUXINGANEKA OXI IINA</item>
+        <item>152. KIÁ KEXILE JEZÚ MU NGONGO</item>
+        <item>153. NGANA JEZÚ UIZA DINGI</item>
+        <item>154. KRISTU KUIZA DINGI</item>
+        <item>155. FUTU IÉ BU MAKU IÚ UIZA NAIU</item>
+        <item>156. MBOLO IA MUENIU</item>
+        <item>157. NGUAMI KU XISA O BIBLIA</item>
+        <item>158. KUATA KU BIBIDIA</item>
+        <item>159. NGA XIKINA O BIBIDIA</item>
+        <item>160. GLÓRIA, GLÓRIA ALELUIA</item>
+        <item>161. K"'"OXI IA ZIONE</item>
+        <item>162. DIKULUSU DIA JEZÚ</item>
+    </string-array>
+</resources>

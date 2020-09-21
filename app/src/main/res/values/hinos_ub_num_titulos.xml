@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hinos_ub_num_titulos">
+        <item>1. O KOLA, O KOLA, O KOLA, A YEHOVA SUKU</item>
+        <item>2. A SUKU YOCILI, A SUKU TÕLO</item>
+        <item>3. FENDELI SOMA YETU</item>
+        <item>4. A SUKU ISIETU, TU KU TUMBANGIYA</item>
+        <item>5. A TATE A SUKU, UTUNGI, WOVINA VIOSI VI KASI</item>
+        <item>6. SUKU USOVOLI O LI VONEMBELE</item>
+        <item>7. SIVAYI HU SUKU, UNA WA TU TUMISA OMÕLA`E</item>
+        <item>8. NDA  NDA TELELE OKU KUNDA</item>
+        <item>9. TU SIVAYA ÑALA YETU</item>
+        <item>10. TU IMBI VOSI LONJOLELA</item>
+        <item>11. LOVITIMA VI YELA</item>
+        <item>12. NDETE ONO YA POSOKA</item>
+        <item>13. ENJU, A SPIRITU SANDU</item>
+        <item>14. A SPIRITU UKUAHENDA</item>
+        <item>15. A SPIRITU LIUTANYA</item>
+        <item>16. A SPIRITU, OVE USONGUI</item>
+        <item>17. A SPIRITU, UKUONENE</item>
+        <item>18. ANJOVOLI, WA SIA ULAMBA WA PIÃLA</item>
+        <item>19. AVAKUETAVO, ENJUI LONJELELA</item>
+        <item>20. VIMBO LINA LIA NDAVITI</item>
+        <item>21. VANJI OCINYI CA TUILA VUTEKE</item>
+        <item>22. UNGELO WOKILU WA SALUISA ANGOMBO</item>
+        <item>23. TULOSOMA, TUA TUNDA KUPALA</item>
+        <item>24. NDA MBANJA KOMINDIKISO</item>
+        <item>25. NDA WA YEVA AYONJO</item>
+        <item>26. UTEKE UNA VOCUMBO</item>
+        <item>27. UPANGE WA PUA PE</item>
+        <item>28. VEMEHI LIEKULUSU</item>
+        <item>29. YESU WA TUNDILE KILU</item>
+        <item>30. OVITA VIA PUA; YYAKI WA IMUHA</item>
+        <item>31. WA LALA VEYAMBO</item>
+        <item>32. YESU KRISTU WA PINDUKA. ALELUYA</item>
+        <item>33. ÑALA YETU WA PINDUKA</item>
+        <item>34. ANJOVOLI, NDO TUMÃLE</item>
+        <item>35. USOMA WA SUKU</item>
+        <item>36. YESU EYE OCISEVETO</item>
+        <item>37. A SUKU, SUMULUISA ETOKEKISO LILO</item>
+        <item>38. YA SUMULUHA ONJO YOSI YA TIAMA</item>
+        <item>39. ETEKE LINA KUVALA</item>
+        <item>40. OKUACISOLA CA PIÃLA COKILU</item>
+        <item>41. PALO TU MOLA YESU KUPOLO</item>
+        <item>42. TU TIMBUILE OMBOLO</item>
+        <item>43. KOMBOLO LOKOVINYU</item>
+        <item>44. A YESU UYUVA WOCILI</item>
+        <item>45. NDUKUAKU LAMBUKA</item>
+        <item>46. ONGOMBO WETU WOCISOLA</item>
+        <item>47. VOSI VEYE LESUMBILO</item>
+        <item>48. ÑDOMO ÑASI, ESUNGA SIO</item>
+        <item>49. ETALI KOLOFEKA</item>
+        <item>50. OVAKANDU A KOKA OHALI</item>
+        <item>51. SUKU O ÑOVONGA. SI YEVI HE?</item>
+        <item>52. TU IMBI LESANJU OHENDA YA PIÃLA</item>
+        <item>53. UKOMBE WA TOTOLA</item>
+        <item>54. ÑALA YETU WEYALE YU WA TU KOVONGA</item>
+        <item>55. A SUKU YANGE, ENJU, NDO TUMÃLE</item>
+        <item>56. A SUKU USOVOLI, A SUKU UCIKOLO</item>
+        <item>57. ACISOLA CA KANGUKA</item>
+        <item>58. A YESU, NDIMEKE</item>
+        <item>59. A YESU, NDUTANYA WOMELE</item>
+        <item>60. NDO SONGUILE, A YEHOVA</item>
+        <item>61. KOKUOVE TU LIKUTILILA, A SUKU</item>
+        <item>62. OLA YOKU LOMBELA, NDA TU LIONGOLOLA</item>
+        <item>63. POPIA LUTIMA WANGE</item>
+        <item>64. POPIA, A CIME, UKUENJE O YEVA</item>
+        <item>65. A YESU, OVE UNO YUHAYELE</item>
+        <item>66. A YESU, TU SONGUILE</item>
+        <item>67. COSI WA PANGA A SUKU, LINGA</item>
+        <item>68. LIMUISI OTEMBO YOKU FELEVELA</item>
+        <item>69. A YESU, A NÃLA, HU SOLE CIMUE</item>
+        <item>70. FUIMILE OMUENYO WA SUKU</item>
+        <item>71. NDAÑO KU LINGI OVIKOMO</item>
+        <item>72. A CIME CANGE, NDO SONGUILE</item>
+        <item>73. YESU O KASI LOCISOLA</item>
+        <item>74. AME ÑASI KUMUE LENE</item>
+        <item>75. CIPI CI KONYUISA VALI</item>
+        <item>76. NDECI OVAVA OLONDUI A PITA PITA</item>
+        <item>77. KUOHA NGENDA NDA LA YESU HA KOKA</item>
+        <item>78. METUILA OVASO ANGE KOLOMUNDA</item>
+        <item>79. NDA KOLELA ÑALA YESU</item>
+        <item>80. UNGOMBO WANGE YEHOVA</item>
+        <item>81. YESU EYE USONGUI WANGE</item>
+        <item>82. YESU EYE EKAMBA LIETU</item>
+        <item>83. YESU O TU SONGUILA</item>
+        <item>84. YESU NDA TU SOLA LOKU KUAMELELA</item>
+        <item>85. YEHOVA UKUANGUSU</item>
+        <item>86. OMBENGE YETU YEHOVA</item>
+        <item>87. MOMO SUKU O TU SOLE</item>
+        <item>88. LINGI OLOMUNGA VIOSOMA YOHENDA</item>
+        <item>89. SOMA YETU WEYILE KOLUALI</item>
+        <item>90. UKUA KRISTU WOSI YESU U SUKILA</item>
+        <item>91. OHENDA YA SUKU TATE</item>
+        <item>92. AMIKO, AKUOHONDE</item>
+        <item>93. VATI, OKO O LI OKU ENDA</item>
+        <item>94. WAYI ÑO OMBUTO YINA YOLONDAKA</item>
+        <item>95. TU PANDUILA, A SUKU</item>
+        <item>96. SUKU YOKILU LOPOSI</item>
+        <item>97. YESU NDU PANDULA</item>
+        <item>98. TUAKUAKU LIMA OVAPIA</item>
+        <item>99. SUKU WA TU IHA VALI</item>
+        <item>100. UNYAMO UKUAVO</item>
+        <item>101. TU VANJA KONYIMA KUENJE TUA LIMBUKA</item>
+        <item>102. ITIMA VIETU VIA SANJUKA</item>
+        <item>103. LALIPO! LALIPO! LALIPO!</item>
+        <item>104. A SUKU, ETEKE WA TU IHA LIA PITA</item>
+        <item>105. EKUMBI ECI LIA IÑILA</item>
+        <item>106. ELIVULU LIA SUKU</item>
+        <item>107. TUSOLE EMBIMBILIYA</item>
+        <item>108. ONDAKA YOVE, A SUKU</item>
+        <item>109. LIGI OMANU VAKUEMBIMBILIYA</item>
+        <item>110. ETALI TUEYA; TUA SANJUKA</item>
+        <item>111. ECI ÑALA YESU EYA</item>
+        <item>112. AKAI VA NENA</item>
+        <item>113. SOLI, SUKU, ENE ATUMÃLA</item>
+        <item>114. NDA ÑASI LA YESU</item>
+        <item>115. LALAPO, OKUETU. LALAPO CIWA</item>
+        <item>116. OKU PEKELA VU YESU</item>
+        <item>117. ECI UTIMA WA LEMIWA</item>
+        <item>118. KIMBO LINA LIOKOVAILU</item>
+        <item>119. KESINYA LINA LIA YORDÃO</item>
+        <item>120. NDO TU YALULE, A YEHOVA</item>
+        <item>121. KALA LETU KUMUE</item>
+        <item>122. SUKU A KALE KUMUE LENE HU</item>
+        <item>123. VOSI WA YEVIKO, VILIKIYI</item>
+        <item>124. TUEYA, A SUKU, LESUMBILO LIA LUA</item>
+        <item>125. A CIME, A SUKU, LEVUMBO HU KOMOHA</item>
+        <item>126. NDINGE MUELE UKUA KRISTU</item>
+        <item>127. OVE, A SUKU WA SOVOLA</item>
+        <item>128. DOXOLOGIAS</item>
+        <item>129. KILU LIOKAMUNDA</item>
+</string-array>
+</resources>

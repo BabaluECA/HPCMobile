@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hinos_pt_num_titulos">
+        <item>1. MIL LÍNGUAS</item>
+        <item>2. INVOCAÇÃO</item>
+        <item>3. LOUVOR UNIVERSAL</item>
+        <item>4. NOSSO SALVADOR</item>
+        <item>5. SANTO! SANTO! SANTO!</item>
+        <item>6. SANTO É O SENHOR</item>
+        <item>7. LOUVAMOS-TE</item>
+        <item>8. CASTELO FORTE</item>
+        <item>9. EXCELSO DEUS</item>
+        <item>10. DESEJOS DO CRISTÃO</item>
+        <item>11. EXULTAÇÃO</item>
+        <item>12. DEUS ESTÁ PRESENTE</item>
+        <item>13. DOXOLOGIAS</item>
+        <item>14. LOUVAI A DEUS!</item>
+        <item>15. A LUZ DO MUNDO</item>
+        <item>16. LOUVOR AO ETERNO DEUS</item>
+        <item>17. COM GLÓRIA COROAI!</item>
+        <item>18. O NOME BENDITO</item>
+        <item>19. NOME PRECIOSO</item>
+        <item>20. EBENEZER</item>
+        <item>21. CRISTO É TUDO PARA MIM</item>
+        <item>22. CRISTO SALVA</item>
+        <item>23. PASTOR DIVINO</item>
+        <item>24. REFÚGIO</item>
+        <item>25. O SACRIFÍCIO DE CRISTO</item>
+        <item>26. A LUZ DO MUNDO</item>
+        <item>27. A MENSAGEM PROCLAMAI</item>
+        <item>28. REDENTOR OMNIPOTENTE</item>
+        <item>29. FIRME NA ROCHA</item>
+        <item>30. JESUS, O SENHOR</item>
+        <item>31. ALELUIA!</item>
+        <item>32. QUANDO EU SINTO O ESPÍRITO SANTO</item>
+        <item>33. CULTO À TRINDADE</item>
+        <item>34. ESPÍRITO SANTO</item>
+        <item>35. CONCEDE-NOS O ESPÍRITO</item>
+        <item>36. DIVINO ESPÍRITO</item>
+        <item>37. RESPLANDEÇAM NOSSAS LUZES</item>
+        <item>38. MAIS PERTO DA CRUZ</item>
+        <item>39. FIDELIDADE E VITÓRIA</item>
+        <item>40. IDE!</item>
+        <item>41. JESUS GUIA</item>
+        <item>42. DEUS CUIDARÁ DE TI</item>
+        <item>43. DOCE É CRER EM CRISTO</item>
+        <item>44. CONFIANÇA EM CRISTO</item>
+        <item>45. FIRME NAS PROMESSAS</item>
+        <item>46. FIRMEZA</item>
+        <item>47. CRER E OBSERVAR</item>
+        <item>48. SEGURANÇA E ALEGRIA</item>
+        <item>49. QUE GRANDE AMIGO</item>
+        <item>50. O LÍRIO DOS VALES</item>
+        <item>51. AVANTE, Ó CRENTES</item>
+        <item>52. O BONDOSO AMIGO</item>
+        <item>53. MAIS PERTO DE TI</item>
+        <item>54. PRECISO DE JESUS</item>
+        <item>55. TEMPO PARA SER SANTO</item>
+        <item>56. HORA BENDITA</item>
+        <item>57. A COMPANHIA DE DEUS</item>
+        <item>58. O NOVO NASCIMENTO</item>
+        <item>59. A DECISÃO</item>
+        <item>60. QUE MUDANÇA ADMIRÁVEL</item>
+        <item>61. A PEDRA FUNDAMENTAL</item>
+        <item>62. AS BOAS NOVAS62</item>
+        <item>63. EIS O ESTANDARTE</item>
+        <item>64. O EVANGELHO</item>
+        <item>65. PERSISTÊNCIA EM ORAÇÃO</item>
+        <item>66. SEGUE-ME</item>
+        <item>67. CONVITE AO PECADOR</item>
+        <item>68. A ÚLTIMA HORA</item>
+        <item>69. GUARDA O FORTE</item>
+        <item>70. PROCLAMAI AS BOAS NOVAS</item>
+        <item>71. É JESUS QUEM SALVA</item>
+        <item>72. FRATERNIDADE CRISTÃ</item>
+        <item>73. LAÇOS BENDITOS</item>
+        <item>74. O ADORNO DESTA VIDA</item>
+        <item>75. DE JOELHOS PARTAMOS NOSSO PÃO</item>
+        <item>76. PÃO DA VIDA</item>
+        <item>77. PÃO VIVO</item>
+        <item>78. VERA PÁSCOA</item>
+        <item>79. SENHOR, TU NOS CONVIDAS</item>
+        <item>80. UNIÃO VITAL</item>
+        <item>81. DEDICAÇÃO DOS FILHOS A JESUS</item>
+        <item>82. ONDE OS OBREIROS?</item>
+        <item>83. SUBMISSO AO SENHOR</item>
+        <item>84. AVANTE MULHERES</item>
+        <item>85. JUVENTUDE METODISTA</item>
+        <item>86. CONFESSAI-O, JOVENS</item>
+        <item>87. MÃOS AO TRABALHO</item>
+        <item>88. DISCERNINDO O CORPO DO SENHOR</item>
+        <item>89. AO TEMPLO</item>
+        <item>90. CONVITE AOS MENINOS</item>
+        <item>91. SOLDADO INFANTIL</item>
+        <item>92. SAMUEL</item>
+        <item>93. CONSTRUINDO</item>
+        <item>94. HÁ TRABALHO PRONTO</item>
+        <item>95. EMBAIXADOR, AVANTE</item>
+        <item>96. QUEM ESTÁ DO LADO</item>
+        <item>97. CONFIANÇA</item>
+        <item>98. CONVITE AO TRABALHO</item>
+        <item>99. UM VASO DE BÊNÇÃO</item>
+        <item>100. COM JESUS ALEGRES TRABALHANDO</item>
+        <item>101. A CRISTO MAIS UM DIA</item>
+        <item>102. CEIFANDO</item>
+        <item>103. PLENA DEDICAÇÃO</item>
+        <item>104. DIVERSOS</item>
+        <item>105. Ó LINDA ESTRELA</item>
+        <item>106. SOBRE OS CAMPOS DE BELÉM</item>
+        <item>107. PEQUENA VILA DE BELÉM</item>
+        <item>108. ADOREMOS AO SENHOR</item>
+        <item>109. NATAL</item>
+        <item>110. NASCEU O REDENTOR</item>
+        <item>111. SINOS DE ALEGRIA</item>
+        <item>112. O PRESÉPIO DE BELÉM</item>
+        <item>113. NATAL</item>
+        <item>114. NA GRUTA DE BELÉM</item>
+        <item>115. NOITE DE PAZ</item>
+        <item>116. OS MENINOS DÃO LOUVOR</item>
+        <item>117. PODEIS VÓS</item>
+        <item>118. É NOITE EM GETSEMANI</item>
+        <item>119. A CRUZ</item>
+        <item>120. FONTE SEM IGUAL</item>
+        <item>121. SUBSTITUIÇÃO</item>
+        <item>122. AO PÉ DA CRUZ</item>
+        <item>123. O BOM PASTOR</item>
+        <item>124. SEGURANÇA EM CRISTO</item>
+        <item>125. QUE PRECIOSO SANGUE!</item>
+        <item>126. FONTE SEM IGUAL</item>
+        <item>127. A VITÓRIA DE JESUS</item>
+        <item>128. A RESSUREIÇÃO DE JESUS</item>
+        <item>129. ALELUIA, RESSURGIU</item>
+        <item>130. A CRISTO COROAI</item>
+        <item>131. CULTO DOMINICAL</item>
+        <item>132. DOMINGO</item>
+        <item>133. FONTE  DE TODO O BEM</item>
+        <item>134. VIGIAR E ORAR</item>
+        <item>135. PARA A NOITE</item>
+        <item>136. ORAÇÃO DA NOITE</item>
+        <item>137. AO CAIR DA NOITE</item>
+        <item>138. ORAÇÃO DA TARDE</item>
+        <item>139. A ESTRELA DA ALVA</item>
+        <item>140. AMOR NO LAR</item>
+        <item>141. MÃE</item>
+        <item>142. O AMOR DE MINHA MÃE</item>
+        <item>143. DEUS VOS GUARDE</item>
+        <item>144. FACE A FACE</item>
+        <item>145. PRECIOSO É JESUS</item>
+        <item>146. POR POUCO TEMPO</item>
+        <item>147. RIO DA VIDA</item>
+        <item>148. CRISTO NÃO TARDA</item>
+        <item>149. PALAVRAS DE VIDA</item>
+        <item>150. A PALAVRA DA VIDA</item>
+        <item>151. JESUS, PÃO DA VIDA</item>
+        <item>152. DÁ-ME A BÍBLIA</item>
+        <item>153. ANO NOVO</item>
+        <item>154. PLENA CONSAGRAÇÃO</item>
+        <item>155. CONSAGRAÇÃO PESSOAL</item>
+        <item>156. MINHA ASPIRAÇÃO</item>
+        <item>157. MAIS VONTADE DÁ-ME</item>
+        <item>158. CONSAGRAÇÃO DE TEMPLO</item>
+        <item>159. VITÓRIA POR JESUS!</item>
+        <item>160. QUEM NOS SALVOU?</item>
+        <item>161. A TI A GLÓRIA</item>
+        <item>162. MENSAGEM DA CRUZ</item>
+        <item>163. PARA OS MONTES ALTOS OLHAREI</item>
+        <item>164. O SOCORRO DO CRENTE</item>
+        <item>165. VIVER PARA SERVIR</item>
+        <item>166. DIA DE NATAL</item>
+        <item>167. DEUS ABENÇOE A ÁFRICA</item>
+        <item>168. RÉGIO HÓSPEDE</item>
+    </string-array>
+</resources>

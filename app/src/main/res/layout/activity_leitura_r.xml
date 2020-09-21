@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LeituraRActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <RelativeLayout
+            android:layout_marginTop="10sp"
+            android:layout_marginBottom="10sp"
+            android:layout_marginLeft="10sp"
+            android:layout_marginRight="10sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/benvindo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/leitura"
+                android:textColor="@color/ColorTextTitle"
+                android:textSize="20sp"
+                android:textStyle="bold"/>
+        </RelativeLayout>
+
+        <GridLayout
+            android:columnCount="1"
+            android:rowCount="17"
+            android:alignmentMode="alignMargins"
+            android:columnOrderPreserved="false"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <androidx.cardview.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:onClick="btnSalmos1"
+                android:focusable="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6sp"
+                app:cardCornerRadius="10sp"
+                android:layout_margin="12sp"
+                app:cardBackgroundColor="@color/cardview_light_bg"
+                >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:padding="6sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/ic_doc_page"
+                        android:layout_width="50sp"
+                        android:layout_height="50sp"/>
+
+                    <TextView
+                        android:id="@+id/btnSalmos1"
+                        android:layout_marginTop="12sp"
+                        android:layout_marginLeft="5sp"
+                        android:text="@string/salmos1"
+                        android:textStyle="bold"
+                        android:textColor="@color/cardTexColor"
+                        android:textSize="20sp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:onClick="btnSalmos8"
+                android:focusable="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6sp"
+                app:cardCornerRadius="10sp"
+                android:layout_margin="12sp"
+                app:cardBackgroundColor="@color/cardview_light_bg"
+                >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:padding="6sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/ic_doc_page"
+                        android:layout_width="50sp"
+                        android:layout_height="50sp"/>
+
+                    <TextView
+                        android:id="@+id/btnSalmos8"
+                        android:layout_marginTop="12sp"
+                        android:layout_marginLeft="5sp"
+                        android:text="@string/salmos8"
+                        android:textColor="@color/cardTexColor"
+                        android:textStyle="bold"
+                        android:textSize="20sp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:onClick="btnSalmos15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6sp"
+                app:cardCornerRadius="10sp"
+                android:layout_margin="12sp"
+                app:cardBackgroundColor="@color/cardview_light_bg"
+                >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:padding="6sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/ic_doc_page"
+                        android:layout_width="50sp"
+                        android:layout_height="50sp"/>
+
+                    <TextView
+                        android:id="@+id/btnSalmos15"
+                        android:layout_marginTop="12sp"
+                        android:layout_marginLeft="5sp"
+                        android:text="@string/salmos15"
+                        android:textStyle="bold"
+                        android:textColor="@color/cardTexColor"
+                        android:textSize="20sp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:onClick="btnSalmos23"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6sp"
+                app:cardCornerRadius="10sp"
+                android:layout_margin="12sp"
+                app:cardBackgroundColor="@color/cardview_light_bg"
+                >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:padding="6sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/ic_doc_page"
+                        android:layout_width="50sp"
+                        android:layout_height="50sp"/>
+
+                    <TextView
+                        android:id="@+id/btnSalmos23"
+                        android:layout_marginTop="12sp"
+                        android:layout_marginLeft="5sp"
+                        android:text="@string/salmos23"
+                        android:textStyle="bold"
+                        android:textColor="@color/cardTexColor"
+                        android:textSize="20sp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:onClick="btnSalmos24"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6sp"
+                app:cardCornerRadius="10sp"
+                android:layout_margin="12sp"
+                app:cardBackgroundColor="@color/cardview_light_bg"
+                >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:padding="6sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/ic_doc_page"
+                        android:layout_width="50sp"
+                        android:layout_height="50sp"/>
+
+                    <TextView
+                        android:id="@+id/btnSalmos24"
+                        android:layout_marginTop="12sp"
+                        android:layout_marginLeft="5sp"
+                        android:text="@string/salmos24"
+                        android:textStyle="bold"
+                        android:textColor="@color/cardTexColor"
+                        android:textSize="20sp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:onClick="btnSalmos46"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6sp"
+                app:cardCornerRadius="10sp"
+                android:layout_margin="12sp"
+                app:cardBackgroundColor="@color/cardview_light_bg"
+                >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:padding="6sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/ic_doc_page"
+                        android:layout_width="50sp"
+                        android:layout_height="50sp"/>
+
+                    <TextView
+                        android:id="@+id/btnSalmos46"
+                        android:layout_marginTop="12sp"
+                        android:layout_marginLeft="5sp"
+                        android:text="@string/salmos46"
+                        android:textStyle="bold"
+                        android:textColor="@color/cardTexColor"
+                        android:textSize="20sp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:onClick="btnSalmos67"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6sp"
+                app:cardCornerRadius="10sp"
+                android:layout_margin="12sp"
+                app:cardBackgroundColor="@color/cardview_light_bg"
+                >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:padding="6sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/ic_doc_page"
+                        android:layout_width="50sp"
+                        android:layout_height="50sp"/>
+
+                    <TextView
+                        android:id="@+id/btnSalmos67"
+                        android:layout_marginTop="12sp"
+                        android:layout_marginLeft="5sp"
+                        android:text="@string/salmos67"
+                        android:textStyle="bold"
+                        android:textColor="@color/cardTexColor"
+                        android:textSize="20sp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:onClick="btnSalmos72"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6sp"
+                app:cardCornerRadius="10sp"
+                android:layout_margin="12sp"
+                app:cardBackgroundColor="@color/cardview_light_bg"
+                >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:padding="6sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/ic_doc_page"
+                        android:layout_width="50sp"
+                        android:layout_height="50sp"/>
+
+                    <TextView
+                        android:id="@+id/btnSalmos72"
+                        android:layout_marginTop="12sp"
+                        android:layout_marginLeft="5sp"
+                        android:text="@string/salmos72"
+                        android:textStyle="bold"
+                        android:textColor="@color/cardTexColor"
+                        android:textSize="20sp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:onClick="btnSalmos90"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6sp"
+                app:cardCornerRadius="10sp"
+                android:layout_margin="12sp"
+                app:cardBackgroundColor="@color/cardview_light_bg"
+                >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:padding="6sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/ic_doc_page"
+                        android:layout_width="50sp"
+                        android:layout_height="50sp"/>
+
+                    <TextView
+                        android:id="@+id/btnSalmos90"
+                        android:layout_marginTop="12sp"
+                        android:layout_marginLeft="5sp"
+                        android:text="@string/salmos90"
+                        android:textStyle="bold"
+                        android:textColor="@color/cardTexColor"
+                        android:textSize="20sp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:onClick="btnSalmos100"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6sp"
+                app:cardCornerRadius="10sp"
+                android:layout_margin="12sp"
+                app:cardBackgroundColor="@color/cardview_light_bg"
+                >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:padding="6sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/ic_doc_page"
+                        android:layout_width="50sp"
+                        android:layout_height="50sp"/>
+
+                    <TextView
+                        android:id="@+id/btnSalmos100"
+                        android:layout_marginTop="12sp"
+                        android:layout_marginLeft="5sp"
+                        android:text="@string/salmos100"
+                        android:textStyle="bold"
+                        android:textColor="@color/cardTexColor"
+                        android:textSize="20sp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:onClick="btnSalmos103"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6sp"
+                app:cardCornerRadius="10sp"
+                android:layout_margin="12sp"
+                app:cardBackgroundColor="@color/cardview_light_bg"
+                >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:padding="6sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/ic_doc_page"
+                        android:layout_width="50sp"
+                        android:layout_height="50sp"/>
+
+                    <TextView
+                        android:id="@+id/btnSalmos103"
+                        android:layout_marginTop="12sp"
+                        android:layout_marginLeft="5sp"
+                        android:text="@string/salmos103"
+                        android:textStyle="bold"
+                        android:textColor="@color/cardTexColor"
+                        android:textSize="20sp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:onClick="btnSalmos139"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6sp"
+                app:cardCornerRadius="10sp"
+                android:layout_margin="12sp"
+                app:cardBackgroundColor="@color/cardview_light_bg"
+                >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:padding="6sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/ic_doc_page"
+                        android:layout_width="50sp"
+                        android:layout_height="50sp"/>
+
+                    <TextView
+                        android:id="@+id/btnSalmos139"
+                        android:layout_marginTop="12sp"
+                        android:layout_marginLeft="5sp"
+                        android:text="@string/salmos139"
+                        android:textStyle="bold"
+                        android:textColor="@color/cardTexColor"
+                        android:textSize="20sp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:onClick="btnSalmos150"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6sp"
+                app:cardCornerRadius="10sp"
+                android:layout_margin="12sp"
+                app:cardBackgroundColor="@color/cardview_light_bg"
+                >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:padding="6sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/ic_doc_page"
+                        android:layout_width="50sp"
+                        android:layout_height="50sp"/>
+
+                    <TextView
+                        android:id="@+id/btnSalmos150"
+                        android:layout_marginTop="12sp"
+                        android:layout_marginLeft="5sp"
+                        android:text="@string/salmos150"
+                        android:textStyle="bold"
+                        android:textColor="@color/cardTexColor"
+                        android:textSize="20sp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:onClick="btnSaoLucas1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6sp"
+                app:cardCornerRadius="10sp"
+                android:layout_margin="12sp"
+                app:cardBackgroundColor="@color/cardview_light_bg"
+                >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:padding="6sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/ic_doc_page"
+                        android:layout_width="50sp"
+                        android:layout_height="50sp"/>
+
+                    <TextView
+                        android:id="@+id/btnSaoLucas1"
+                        android:layout_marginTop="12sp"
+                        android:layout_marginLeft="5sp"
+                        android:text="@string/slucas1_68_79"
+                        android:textStyle="bold"
+                        android:textColor="@color/cardTexColor"
+                        android:textSize="20sp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:onClick="btnSaoLucas"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6sp"
+                app:cardCornerRadius="10sp"
+                android:layout_margin="12sp"
+                app:cardBackgroundColor="@color/cardview_light_bg"
+                >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:padding="6sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/ic_doc_page"
+                        android:layout_width="50sp"
+                        android:layout_height="50sp"/>
+
+                    <TextView
+                        android:id="@+id/btnSaoLucas"
+                        android:layout_marginTop="12sp"
+                        android:layout_marginLeft="5sp"
+                        android:text="@string/slucas2_29_35"
+                        android:textStyle="bold"
+                        android:textColor="@color/cardTexColor"
+                        android:textSize="20sp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:onClick="btnSaoMateus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6sp"
+                app:cardCornerRadius="10sp"
+                android:layout_margin="12sp"
+                app:cardBackgroundColor="@color/cardview_light_bg"
+                >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:padding="6sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/ic_doc_page"
+                        android:layout_width="50sp"
+                        android:layout_height="50sp"/>
+
+                    <TextView
+                        android:id="@+id/btnSaoMateus"
+                        android:layout_marginTop="12sp"
+                        android:layout_marginLeft="5sp"
+                        android:text="@string/smateus5_3_12"
+                        android:textStyle="bold"
+                        android:textColor="@color/cardTexColor"
+                        android:textSize="20sp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:onClick="btnApocalipse"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6sp"
+                app:cardCornerRadius="10sp"
+                android:layout_margin="12sp"
+                app:cardBackgroundColor="@color/cardview_light_bg"
+                >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:padding="6sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/ic_doc_page"
+                        android:layout_width="50sp"
+                        android:layout_height="50sp"/>
+
+                    <TextView
+                        android:id="@+id/btnApocalipse"
+                        android:layout_marginTop="12sp"
+                        android:layout_marginLeft="5sp"
+                        android:text="@string/apocalipse"
+                        android:textStyle="bold"
+                        android:textColor="@color/cardTexColor"
+                        android:textSize="20sp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+        </GridLayout>
+    </LinearLayout>
+
+</ScrollView>

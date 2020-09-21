@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1E88E5</color>
+    <color name="colorPrimaryDark">#0077C2</color>
+    <color name="colorAccent">#80D6F6</color>
+    <color name="colorButtons">#29B6F6</color>
+    <color name="ColorTextTitle">#000000</color>
+    <color name="colorBackground">#6AB7FF</color>
+    <color name="colorBackgroundCardText">#FFFFFFFF</color>
+    <color name="cardTexColor">#1D61E1</color>
+    <color name="cardview_light_bg">#FFFFFFFF</color>
+    <color name="listViewDivider">#d1d1d1</color>
+    <color name="alertBackground">#2F333F</color>
+</resources>
